@@ -17,7 +17,7 @@ This repository implements two approaches to sovle HateSpeech Detection tasks.
   * EnviBERT (Binh Quoc Nguyen)
 * LSTM
   * GloVE Embeddings baseline
-  * Compressing Word Embeddings follow work: https://github.com/nguyenphuhien13/Composition-Code-Learning-HateSpeech)
+  * Compressing Word Embeddings (follow work: https://github.com/nguyenphuhien13/Composition-Code-Learning-HateSpeech)
 
 ## Compare results
 I did a comparison of the approaches and got the result on Toxicity label as below:
