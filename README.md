@@ -22,7 +22,7 @@ This repository implements two approaches to sovle HateSpeech Detection tasks.
 ## Compare results
 I did a comparison of the approaches and got the result on Toxicity label as below:
 
-|      Model       |          Accuracy     |
+|      Model       |          F1_score (macro)     |
 | ------------- | ------------- |
 | Classifier with fine-tuning PhoBERT | 0.853|
 | Classifier with fine-tuning EnviBERT | 0.853|
