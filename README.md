@@ -13,8 +13,8 @@ This repository implements two approaches to sovle HateSpeech Detection tasks.
 
 ## Approach
 * BERT 
-  * PhoBERT (Dat Quoc Nguyen and Anh Tuan Nguyen)
-  * EnviBERT (Binh Quoc Nguyen)
+  * PhoBERT (Dat Quoc Nguyen and Anh Tuan Nguyen VinAI follow work: https://github.com/VinAIResearch/PhoBERT)
+  * EnviBERT (Binh Quoc Nguyen V)
 * LSTM
   * GloVE Embeddings baseline
   * Compressing Word Embeddings (follow work: https://github.com/nguyenphuhien13/Composition-Code-Learning-HateSpeech)
