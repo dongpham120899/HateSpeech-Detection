@@ -12,7 +12,6 @@ This repository implements two approach to sovle HateSpeech Detection for Vietna
 * GloVe vectors (Download glove.42B.300d.zip from https://nlp.stanford.edu/projects/glove/)
 
 ## Approach
- * BERT
-  * PhoBERT
+* BERT
   * EnviBERT
- * LSTM
+* LSTM
