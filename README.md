@@ -29,4 +29,4 @@ I did a comparison of the approaches and got the result on Toxicity label as bel
 | Classifier with baseline GloVe embedding | 0.853|
 | Classifier with 64x16 encoding | 0.841|
 
-The problem of this task is out of vocab, GloVe baseline gives best results partly because we retrained GloVe embedding on the large Vietnamese training set.
+In this task we met out of vocab problem, GloVe baseline gives best results partly because we retrained GloVe embedding on the large Vietnamese training set.
