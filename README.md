@@ -13,6 +13,6 @@ This repository implements two approach to sovle HateSpeech Detection for Vietna
 
 ## Approach
  * BERT
- ** PhoBERT
- ** EnviBERT
+  * PhoBERT
+  * EnviBERT
  * LSTM
