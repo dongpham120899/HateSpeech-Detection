@@ -25,8 +25,8 @@ I did a comparison of the approaches and got the result on Toxicity label as bel
 |      Model       |          F1_score (macro)     |
 | ------------- | ------------- |
 | Fine-tuning PhoBERT | 0.8120|
-| Fine-tuning EnviBERT | |
-| LSTM with baseline GloVe embedding | |
-| LSTM with 64x16 encoding | |
+| Fine-tuning EnviBERT | 0.7878 |
+| LSTM with baseline GloVe embedding | 0.8134 |
+| LSTM with 64x16 encoding | 0.7664 |
 
 In this task we met out of vocab problem, GloVe baseline gives best results partly because we retrained GloVe embedding on the large Vietnamese training set.
