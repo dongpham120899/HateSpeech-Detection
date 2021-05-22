@@ -24,8 +24,8 @@ I did a comparison of the approaches and got the result on Toxicity label as bel
 
 |      Model       |          F1_score (macro)     |
 | ------------- | ------------- |
-| Classifier with fine-tuning PhoBERT | 0.8120|
-| Classifier with fine-tuning EnviBERT | |
+| Fine-tuning PhoBERT | 0.8120|
+| Fine-tuning EnviBERT | |
 | LSTM with baseline GloVe embedding | |
 | LSTM with 64x16 encoding | |
 
