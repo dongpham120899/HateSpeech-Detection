@@ -26,7 +26,7 @@ I did a comparison of the approaches and got the result on Toxicity label as bel
 | ------------- | ------------- |
 | Classifier with fine-tuning PhoBERT | 0.8120|
 | Classifier with fine-tuning EnviBERT | |
-| Classifier with baseline GloVe embedding | |
-| Classifier with 64x16 encoding | |
+| LSTM with baseline GloVe embedding | |
+| LSTM with 64x16 encoding | |
 
 In this task we met out of vocab problem, GloVe baseline gives best results partly because we retrained GloVe embedding on the large Vietnamese training set.
