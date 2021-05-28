@@ -33,16 +33,17 @@ parser.add_argument("-accumulation_steps", type=float, default=1, metavar='N', h
 parser.add_argument("-num_labels", type=int, default=7, metavar='N', help="Number labels HateSpeech: Toxicity, Obscence, Threat, Identity attack - Insult, Sexual explicit, Sedition – Politics, Spam")
 parser.add_argument("-learning_rate", type=float, default=0.003, metavar='N', help="Adam learning rate, default: 0.003")
 parser.add_argument("-epochs", type=int, default=60, metavar='N', help="number of epochs, default: 60")
-parser.add_argument("-model_type", default='LSTM', metavar='MODEL_TYPE', help="Model type, pick either phoBert or enviBert or LSTM, default: LSTM")
+parser.add_argument("-model_type", default='LSTM', metavar='MODEL_TYPE', help="MODEL_TYPE, pick either phoBert or enviBert or LSTM, default: LSTM")
 parser.add_argument("-glove_embedding_path", type=str, default='saved_LSTM_models/vectors_200d_v1.txt', metavar='PATH_FILE', help="Specific directory to weighted GloVe")
 parser.add_argument("-embedding_dim", type=int, default=200, metavar='N', help="Embedding dimension size, default: 200")
 parser.add_argument("-lstm_units", type=int, default=256, metavar='N', help="LSTM units, default: 256")
 parser.add_argument("-embedding_type", default='baseline', metavar='EMBEDDING_TYPE', help="Embedding type; pick either coded or baseline, default: coded")
-parser.add_argument('-model_file', default='saved_LSTM_models/64_8/epoch_94000.pt', metavar='PATH_FILE',help='specific directory to model you want to load')
+parser.add_argument('-model_file', default='models/64_8/epoch_84500.pt', metavar='PATH_FILE',help='specific directory to model you want to load')
 parser.add_argument('-M', default=64, type=int, metavar='N', help='Number of source dictionaries, default: 64')
 parser.add_argument('-K', default=16, type=int, metavar='N', help='Source dictionary size, default: 16')
 parser.add_argument('-vocab_file', default='saved_LSTM_models/vocab_200d_v1.txt', metavar='PATH_FILE',help='file which contains GloVE vocab')
-parser.add_argument('-data_folder', default='saved_LSTM_models/', metavar='DIR', help='folder to retrieve embeddings, data, text files, etc.')
+parser.add_argument('-data_folder', default='Datasets/', metavar='DIR', help='folder to retrieve embeddings, data, text files, etc.')
+parser.add_argument('-text_type', default='raw_text', metavar="TEXT_TYPE", help='choose text type, spoken_form_text or raw_text, default: raw text')
 args = parser.parse_args()
 
 
@@ -106,9 +107,15 @@ if __name__ == '__main__':
     train_df = train.reset_index(drop=True)
     valid_df = test.reset_index(drop=True)
 
-    x_train = preprocess(train[comments])
-    x_test = preprocess(test[comments])
+    # choose text type
+    if args.text_type == "spoken_form_text":
+        x_train = preprocess(train[comments])
+        x_test = preprocess(test[comments])
+    else:
+        x_train = train[comments]
+        x_test = test[comments]
 
+    # choose model type
     if args.model_type == 'enviBert':
         model_name = 'enviBERT/'
         tokenizer = XLMRobertaTokenizer(model_name)
@@ -213,7 +220,7 @@ if __name__ == '__main__':
         model.to(device)
         torch.cuda.empty_cache()
     elif args.model_type == "phoBert":
-        model = BertBase.from_pretrained(model_name, config=configuration, model_name=model_name)
+        model = BertCNN.from_pretrained(model_name, config=configuration, model_name=model_name)
         model.zero_grad()
         model.to(device)
         torch.cuda.empty_cache()
