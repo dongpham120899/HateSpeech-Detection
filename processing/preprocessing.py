@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from unidecode import unidecode
 from processing.glove_helper import correction_glove
+from Norm_spoken_form.Norm_TTS import norm_sentence
 
 def preprocess(data):
     '''
@@ -57,6 +58,7 @@ def preprocess(data):
     data = data.astype(str).apply(lambda x: mapping(x))
     data = data.astype(str).apply(lambda x: correction_Glove(x))
     data = data.astype(str).apply(lambda x: Unidecode(x))
+    data = data.astype(str).apply(lambda x: norm_sentence(x))
     return data
 
 def get_coefs(word, *arr):
