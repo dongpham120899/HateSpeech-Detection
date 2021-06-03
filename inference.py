@@ -22,5 +22,5 @@ file_path = ''
 
 if __name__ == '__main__':
 
-   pred_target, probs = predict_file_enviBERT('../HateSpeech/data/spoken_test.csv')
+   pred_target, probs = predict_file_enviBERT('Datasets/test_v8.csv')
    print(pred_target)  
