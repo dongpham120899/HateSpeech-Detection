@@ -84,6 +84,10 @@ def read_csv(path):
     test = pd.read_csv(path + 'test_v7.csv')
     return train, test
 
+def read_txt(path):
+    with open(path+"full_comments_v2.txt","r") as file:
+        return file.readlines()
+
 def compute_output_arrays(df, columns):
     return np.asarray(df[columns])
 
