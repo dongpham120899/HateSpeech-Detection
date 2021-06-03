@@ -1,0 +1,13 @@
+
+Datasets/
+EnviBERT_model/weights/
+EnviBERT_model/enviBERT/
+PhoBERT_model/weights/
+RNN_model/weights/
+RNN_model/vectors_200d_v1.txt
+EnviBERT_model/weights/
+EnviBERT_model/enviBERT/
+PhoBERT_model/weights/
+RNN_model/weights/
+RNN_model/vectors_200d_v1.txt
+
