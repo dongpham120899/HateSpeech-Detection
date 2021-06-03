@@ -15,7 +15,7 @@ from transformers import AutoTokenizer, AutoConfig
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from processing.tokenizer import XLMRobertaTokenizer
-from processing.utils import compute_output_arrays, seed_all, read_csv
+from processing.utils import compute_output_arrays, read_txt, seed_all, read_csv
 from processing.dataset import ToxicityDataset
 from processing.preprocessing import preprocess, build_matrix
 from torch.utils.data import DataLoader, Dataset
@@ -44,6 +44,7 @@ parser.add_argument('-K', default=16, type=int, metavar='N', help='Source dictio
 parser.add_argument('-vocab_file', default='saved_LSTM_models/vocab_200d_v1.txt', metavar='PATH_FILE',help='file which contains GloVE vocab')
 parser.add_argument('-data_folder', default='Datasets/', metavar='DIR', help='folder to retrieve embeddings, data, text files, etc.')
 parser.add_argument('-text_type', default='raw_text', metavar="TEXT_TYPE", help='choose text type, spoken_form_text or raw_text, default: raw text')
+parser.add_argument('-data_train_type', default='train_data', metavar="DATA_TYPE", help='choose data, full_data (train and test data) or only train_data, default: train data')
 args = parser.parse_args()
 
 
@@ -97,6 +98,9 @@ if __name__ == '__main__':
     seed_all(123)
     path = 'Datasets/'
     train, test = read_csv(path)
+    if args.data_train_type == "full_data":
+        train = pd.concat((train, test))
+    
     
     train = train.reset_index(drop = True)
     test = test.reset_index(drop = True)
