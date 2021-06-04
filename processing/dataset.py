@@ -5,7 +5,7 @@ from torch.utils.data import DataLoader, Dataset
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 
-def process_data(text, label, tokenizer, max_len, token_type):
+def process_data(text, tokenizer, max_len, token_type, label=None):
     
     if token_type == "enviBert":
         input_ids_orig = tokenizer.tokenize(text)
@@ -48,7 +48,7 @@ def process_data(text, label, tokenizer, max_len, token_type):
         }
 
 class ToxicityDataset(Dataset):
-    def __init__(self, text, label, tokenizer, max_len, token_type):
+    def __init__(self, text, tokenizer, max_len, token_type, label):
         self.text = text
         self.label = label
         self.tokenizer = tokenizer
@@ -61,18 +61,28 @@ class ToxicityDataset(Dataset):
     def __getitem__(self, item):
         data = process_data(
             self.text[item], 
-            self.label[item],
             self.tokenizer,
             self.max_len,
             self.token_type,
+            self.label[item],
         )
 
         if self.token_type == "LSTM":
+            if self.label is None:
+                return {
+                    'ids': torch.tensor(self.text[item], dtype=torch.long),
+            }
             return {
                 'ids': torch.tensor(self.text[item], dtype=torch.long),
                 'targets': torch.tensor(self.label[item], dtype=torch.float),
             }
         else:
+            if self.label is None:
+                return {
+                    'ids': torch.tensor(data["ids"], dtype=torch.long),
+                    'mask': torch.tensor(data["mask"], dtype=torch.long),
+                    'token_type_ids': torch.tensor(data["token_type_ids"], dtype=torch.long),
+            }
             return {
                 'ids': torch.tensor(data["ids"], dtype=torch.long),
                 'mask': torch.tensor(data["mask"], dtype=torch.long),
