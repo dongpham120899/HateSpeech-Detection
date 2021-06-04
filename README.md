@@ -44,6 +44,7 @@ Pay attention to the selection of parameters suitable for the training model:
  * train_batch_size
  * valid_batch_size
  * epochs
+
 Choose the right option for training: 
  * text_type: choose text type, spoken_form_text or raw_text, default: raw text
  * data_train_type: choose data, full_data (train and test data) or only train_data, default: train data
