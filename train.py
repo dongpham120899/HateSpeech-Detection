@@ -45,6 +45,7 @@ parser.add_argument('-vocab_file', default='saved_LSTM_models/vocab_200d_v1.txt'
 parser.add_argument('-data_folder', default='Datasets/', metavar='DIR', help='folder to retrieve embeddings, data, text files, etc.')
 parser.add_argument('-text_type', default='raw_text', metavar="TEXT_TYPE", help='choose text type, spoken_form_text or raw_text, default: raw text')
 parser.add_argument('-data_train_type', default='train_data', metavar="DATA_TYPE", help='choose data, full_data (train and test data) or only train_data, default: train data')
+parser.add_argument('-weight_file', default='weight/spoken_form_LSTM_model_v2.pt', metavar='PATH_FILE', help='choose path to save weight model')
 args = parser.parse_args()
 
 
@@ -233,5 +234,8 @@ if __name__ == '__main__':
     model, best_val_score = train_classifier(model, args.epochs, args.learning_rate, train_loader, valid_loader, args.model_type)
 
     print(best_val_score)
+
+    ## save weight model
+    torch.save(model, args.weight_file)
     
 
