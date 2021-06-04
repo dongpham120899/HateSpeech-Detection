@@ -39,6 +39,14 @@ To train model phoBert, follow command:
 ```
 python train.py -model_type="phoBert" -max_sequence_length=256 -train_batch_size=24 -valid_batch_size=32 -learning_rate=5e-5 -epochs=6 -weight_file="weights/enviBert_model.pt
 ```
+Pay attention to the selection of parameters suitable for the training model:
+ * learning_rate 
+ * train_batch_size
+ * valid_batch_size
+ * epochs
+Choose the right option for training: 
+ * text_type: choose text type, spoken_form_text or raw_text, default: raw text
+ * data_train_type: choose data, full_data (train and test data) or only train_data, default: train data
 ## Compare results
 I did a comparison of the approaches and got the result on Toxicity label as below:
 
