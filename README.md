@@ -20,7 +20,25 @@ pip install -r requirements.txt
 * LSTM
   * GloVE Embeddings baseline
   * Compressing Word Embeddings (follow work: https://github.com/nguyenphuhien13/Composition-Code-Learning-HateSpeech)
-
+## How to use
+To train model LSTM with baseline GloVe embedding, follow command:
+```
+python train.py -model_type="LSTM" -embedding_type="baseline" -weight_file="weights/LSTM_baseline_model.pt"
+```
+To train model LSTM with 64x16 encoding, follow work:
+First, execute the following scripts in the repository: https://github.com/nguyenphuhien13/Composition-Code-Learning-HateSpeech
+After that, run the command:
+```
+python train.py -model_type="" -embedding_type="coded" -weight_file="weights/LSTM_64x16_model.pt"
+```
+To train model EnviBERT, follow command:
+```
+python train.py -model_type="enviBert" -max_sequence_length=256 -train_batch_size=24 -valid_batch_size=32 -learning_rate=5e-5 -epochs=6 -weight_file="weights/LSTM_baseline_model.pt" -weight_file="weights/enviBert_model.pt
+```
+To train model phoBert, follow command:
+```
+python train.py -model_type="phoBert" -max_sequence_length=256 -train_batch_size=24 -valid_batch_size=32 -learning_rate=5e-5 -epochs=6 -weight_file="weights/enviBert_model.pt
+```
 ## Compare results
 I did a comparison of the approaches and got the result on Toxicity label as below:
 
