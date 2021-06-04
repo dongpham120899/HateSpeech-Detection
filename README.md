@@ -26,7 +26,7 @@ To train model LSTM with baseline GloVe embedding, follow command:
 python train.py -model_type="LSTM" -embedding_type="baseline" -weight_file="weights/LSTM_baseline_model.pt"
 ```
 To train model LSTM with 64x16 encoding, follow work:
-First, execute the following scripts in the repository: https://github.com/nguyenphuhien13/Composition-Code-Learning-HateSpeech
+First, execute the following scripts in the repository: https://github.com/nguyenphuhien13/Composition-Code-Learning-HateSpeech .
 After that, run the command:
 ```
 python train.py -model_type="" -embedding_type="coded" -weight_file="weights/LSTM_64x16_model.pt"
