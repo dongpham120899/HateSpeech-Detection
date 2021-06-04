@@ -15,8 +15,6 @@ docs = file.readlines()
 tokenizer = Tokenizer()
 tokenizer.fit_on_texts(docs)
 
-model = torch.load('RNN_model/weights/spoken_form_LSTM_model_v2.pt', map_location=device)
-model.eval()
 # model = NeuralNet(np.zeros((100,100)))
 # model.load_state_dict("RNN_model/spoken_form_RNN_model.pt")
 # model.eval()
@@ -25,7 +23,7 @@ mapping = {0:"Toxicity",1:"Obscence",2:"Threat",3:"Identity attack-Insult",4:"Se
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 
-def predict_RNN(sentence):
+def predict_RNN(sentence, model):
    sentence = preprocess(sentence)
    x_infer = tokenizer.texts_to_sequences([sentence])
    x_infer = pad_sequences(x_infer, maxlen=400)
@@ -39,7 +37,7 @@ def predict_RNN(sentence):
 
    return test_preds[0]
 
-def predict_file_RNN(file, model = model, batch_size=64):
+def predict_file_RNN(file, model, batch_size=64):
 
    if 'csv' in file:
       test = pd.read_csv(file)

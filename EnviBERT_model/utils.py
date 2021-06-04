@@ -10,10 +10,10 @@ from torch.utils.data import DataLoader, Dataset
 
 # load model enviBERT
 device = 'cuda' if torch.cuda.is_available() else 'cpu' 
-enviBERT = 'EnviBERT_model/enviBERT'
-tokenizer_enviBERT = XLMRobertaTokenizer(enviBERT)
-model_enviBERT = torch.load('EnviBERT_model/weights/spoken_form_EnviBERT_model_v2.pt', map_location='cpu')
-model_enviBERT.eval()
+# enviBERT = 'EnviBERT_model/enviBERT'
+# tokenizer_enviBERT = XLMRobertaTokenizer(enviBERT)
+# model_enviBERT = torch.load('EnviBERT_model/weights/spoken_form_EnviBERT_model_v2.pt', map_location='cpu')
+# model_enviBERT.eval()
 
 mapping = {0:"Toxicity",1:"Obscence",2:"Threat",3:"Identity attack-Insult",4:"Sexual-explicit",5:"Sedition-Politics",6:"Spam"}
 
@@ -40,7 +40,7 @@ class ToxicityDataset(Dataset):
             'token_type_ids': torch.tensor(data["token_type_ids"], dtype=torch.long),
         }
 
-def predict_enviBERT(sentence, tokenizer=tokenizer_enviBERT, max_len=256, model=model_enviBERT, device=device):
+def predict_enviBERT(sentence, tokenizer, model, max_len = 256, device=device):
   data = process_data(sentence, 0, tokenizer, max_len)
 
   ids = torch.tensor(data["ids"], dtype=torch.long, device=device)
@@ -55,7 +55,7 @@ def predict_enviBERT(sentence, tokenizer=tokenizer_enviBERT, max_len=256, model=
 
   return preds.squeeze().cpu().detach().numpy()
 
-def predict_file_enviBERT(file, model = model_enviBERT, tokenizer = tokenizer_enviBERT, batch_size=16, max_len=256):
+def predict_file_enviBERT(file, tokenizer, model, batch_size=16, max_len=256):
 
     if 'csv' in file:
       test = pd.read_csv(file)
@@ -68,6 +68,7 @@ def predict_file_enviBERT(file, model = model_enviBERT, tokenizer = tokenizer_en
         sentences = f.read_lines()
         sentences = [i.strip() for i in sentences]
 
+    # sentences = sentences[:30]
     test_set    = ToxicityDataset(sentences, tokenizer, max_len)
     test_loader = DataLoader(test_set, batch_size=batch_size, shuffle=False, drop_last=False)
     

@@ -16,6 +16,18 @@ app = Flask(__name__)
 
 list_results = []
 
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+tokenizer_envibert = XLMRobertaTokenizer('EnviBERT_model/enviBERT')
+model_envibert = torch.load('EnviBERT_model/weights/spoken_form_EnviBERT_model_v2.pt', map_location=device)
+model_envibert.eval()
+
+tokenizer_phobert = AutoTokenizer.from_pretrained('vinai/phobert-base', use_fast=False)
+model_phobert = torch.load('PhoBERT_model/weights/spoken_form_phoBert_model_v2.pt', map_location=device)
+model_phobert.eval()
+
+model_rnn = torch.load('RNN_model/weights/spoken_form_LSTM_model_v2.pt', map_location=device)
+model_rnn.eval()
+
 @app.route("/")
 def input():
    return render_template("index.html")
@@ -32,16 +44,16 @@ def result():
    print("MODEL:\t", request_model)
    if request_model == 'phoBERT':
       t3 = time.time()
-      result = predict_phoBERT(sentence)
+      result = predict_phoBERT(sentence, tokenizer = tokenizer_phobert, model = model_phobert)
       t4 = time.time()
       print("Time Infer PhoBERT:", t4-t3)
    elif request_model == 'enviBERT':
       t5 = time.time()
-      result = predict_enviBERT(sentence)
+      result = predict_enviBERT(sentence, tokenizer = tokenizer_envibert, model = model_envibert)
       t6 = time.time()
       print("Time Infer EnviBERT:", t6-t5)
    elif request_model == "LSTM":
-      result = predict_RNN(sentence)
+      result = predict_RNN(sentence, model_rnn)
 
    print("*********************************************************")
    

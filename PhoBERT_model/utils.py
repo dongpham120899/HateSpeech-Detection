@@ -7,10 +7,7 @@ from torch.utils.data import DataLoader, Dataset
 
 # load model phoBERT
 device = 'cuda' if torch.cuda.is_available() else 'cpu' 
-phoBERT = 'vinai/phobert-base'
-tokenizer_phoBERT = AutoTokenizer.from_pretrained(phoBERT, use_fast=False)
-model_phoBERT = torch.load('PhoBERT_model/weights/spoken_form_phoBert_model_v2.pt', map_location='cpu')
-model_phoBERT.eval()
+
 
 mapping = {0:"Toxicity",1:"Obscence",2:"Threat",3:"Identity attack-Insult",4:"Sexual-explicit",5:"Sedition-Politics",6:"Spam"}
 
@@ -51,7 +48,7 @@ def convert_samples(text, tokenizer, max_len, labels=None):
     if labels is not None:
         return {
                 'ids': input_ids_orig,
-                'mask': mask,
+                'mask': attention_masks,
                 'token_type_ids': token_type_ids,
                 'label': label,
                 }
@@ -76,18 +73,23 @@ def convert_samples_to_ids(texts, tokenizer, max_seq_length, labels=None):
     return torch.tensor(input_ids, dtype=torch.long), torch.tensor(attention_masks, dtype=torch.long)
 
 
-def predict_phoBERT(sentences, model=model_phoBERT, tokenizer=tokenizer_phoBERT, max_seq_len=256, device=device):
-    # sentences = word_tokenize(sentences, format="text")
-    input_ids, attention_masks = convert_samples([sentences], tokenizer, max_seq_len)
-    model.eval()
+def predict_phoBERT(sentence, tokenizer, model, max_seq_len=256, device=device):
 
-    y_pred = model(input_ids.to(device), attention_masks.to(device), token_type_ids=None )
-    y_pred = y_pred.squeeze().detach().cpu().numpy()
+    test_set    = ToxicityDataset([sentence], tokenizer, max_seq_len)
+    test_loader = DataLoader(test_set, batch_size=1, shuffle=False, drop_last=False)
+
+    tk0 = (enumerate(test_loader))
+    with torch.no_grad():
+        
+        for idx, batch in tk0:
+            input_ids, input_masks, input_segments = batch['ids'], batch['mask'], batch['token_type_ids']
+            y_pred = model(input_ids.to(device), input_masks.to(device), token_type_ids=input_segments)
+            y_pred = y_pred.squeeze().detach().cpu().numpy()
 
     return y_pred
 
 
-def predict_file_phoBERT(file, model = model_phoBERT, tokenizer = tokenizer_phoBERT, batch_size=16, max_len=256):
+def predict_file_phoBERT(file, tokenizer, model, batch_size=16, max_len=256):
 
     if 'csv' in file:
       test = pd.read_csv(file)
@@ -100,6 +102,7 @@ def predict_file_phoBERT(file, model = model_phoBERT, tokenizer = tokenizer_phoB
         sentences = f.read_lines()
         sentences = [i.strip() for i in sentences]
 
+    # sentences = sentences[:30]
     test_set    = ToxicityDataset(sentences, tokenizer, max_len)
     test_loader = DataLoader(test_set, batch_size=batch_size, shuffle=False, drop_last=False)
     
