@@ -26,6 +26,8 @@ parser.add_argument('--models_folder', default='EnviBERT_model/enviBERT', metava
                     help='folder to load models')
 parser.add_argument('--weight_file', default='EnviBERT_model/weights/spoken_form_EnviBERT_model_v2.pt', metavar='DIR',
                     help='weight of model')
+parser.add_argument('--sentence', default='kiểm tra độc hại của câu', type=str,
+                    help='inference sentence')
 
 # phoBERT = 'vinai/phobert-base'
 # 'PhoBERT_model/weights/spoken_form_phoBert_model_v2.pt'
@@ -42,22 +44,20 @@ if __name__ == '__main__':
    global args
    args = parser.parse_args()
 
-   sentence = 'con chó'
-
    if args.request_model == 'enviBERT':
       tokenizer = XLMRobertaTokenizer(args.models_folder)
       model = torch.load(args.weight_file, map_location=device)
       model.eval()
-      result = predict_enviBERT(sentence, tokenizer = tokenizer, model = model)
+      result = predict_enviBERT(args.sentence, tokenizer = tokenizer, model = model)
    elif args.request_model == 'phoBERT':
       tokenizer = AutoTokenizer.from_pretrained(args.models_folder, use_fast=False)
       model = torch.load(args.weight_file, map_location=device)
       model.eval()
-      result = predict_phoBERT(sentence, tokenizer = tokenizer, model = model)
+      result = predict_phoBERT(args.sentence, tokenizer = tokenizer, model = model)
    else:
       model = torch.load(args.weight_file, map_location=device)
       model.eval()
-      result = predict_RNN(sentence, model)
+      result = predict_RNN(args.sentence, model)
 
    mapping = {1:"Obscence",2:"Threat",3:"Identity attack-Insult",4:"Sexual-explicit",5:"Sedition-Politics",6:"Spam"}
    
@@ -74,19 +74,19 @@ if __name__ == '__main__':
    list_results.append(output)
    print(list_results)
 
-   if args.request_model == 'enviBERT':
-      tokenizer = XLMRobertaTokenizer(args.models_folder)
-      model = torch.load(args.weight_file, map_location=device)
-      model.eval()
-      pred_target, probs = predict_file_enviBERT(args.data_folder, tokenizer, model)
-   elif args.request_model == 'phoBERT':
-      tokenizer = AutoTokenizer.from_pretrained(args.models_folder, use_fast=False)
-      model = torch.load(args.weight_file, map_location=device)
-      model.eval()
-      pred_target, probs = predict_file_phoBERT(args.data_folder, tokenizer, model)
-   else:
-      model = torch.load(args.weight_file, map_location=device)
-      model.eval()
-      pred_target, probs = predict_file_RNN(args.data_folder, model)
+   # if args.request_model == 'enviBERT':
+   #    tokenizer = XLMRobertaTokenizer(args.models_folder)
+   #    model = torch.load(args.weight_file, map_location=device)
+   #    model.eval()
+   #    pred_target, probs = predict_file_enviBERT(args.data_folder, tokenizer, model)
+   # elif args.request_model == 'phoBERT':
+   #    tokenizer = AutoTokenizer.from_pretrained(args.models_folder, use_fast=False)
+   #    model = torch.load(args.weight_file, map_location=device)
+   #    model.eval()
+   #    pred_target, probs = predict_file_phoBERT(args.data_folder, tokenizer, model)
+   # else:
+   #    model = torch.load(args.weight_file, map_location=device)
+   #    model.eval()
+   #    pred_target, probs = predict_file_RNN(args.data_folder, model)
     
-   print(pred_target)  
+   # print(pred_target)  
