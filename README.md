@@ -10,7 +10,9 @@ This repository implements two approaches to sovle HateSpeech Detection tasks.
 * Unidecode
 * Torchtext
 * GloVe vectors (Download glove.42B.300d.zip from https://nlp.stanford.edu/projects/glove/)
-
+```
+pip install -r requirements.txt
+```
 ## Approach
 * BERT 
   * PhoBERT (Dat Quoc Nguyen and Anh Tuan Nguyen VinAI follow work: https://github.com/VinAIResearch/PhoBERT)
