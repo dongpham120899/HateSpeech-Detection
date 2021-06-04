@@ -151,10 +151,10 @@ if __name__ == '__main__':
         x_train = pad_sequences(x_train, maxlen=args.max_sequence_length)
         x_test = pad_sequences(x_test, maxlen=args.max_sequence_length)
 
-    train_set    = ToxicityDataset(x_train, train_outputs, tokenizer, args.max_sequence_length, args.model_type)
+    train_set    = ToxicityDataset(x_train, tokenizer, args.max_sequence_length, args.model_type, train_outputs)
     train_loader = DataLoader(train_set, batch_size=args.train_batch_size, shuffle=True)
         
-    valid_set    = ToxicityDataset(x_test, test_outputs, tokenizer, args.max_sequence_length, args.model_type)
+    valid_set    = ToxicityDataset(x_test, tokenizer, args.max_sequence_length, args.model_type, test_outputs)
     valid_loader = DataLoader(valid_set, batch_size=args.valid_batch_size, shuffle=False, drop_last=False)
     
     if args.model_type == "LSTM":
