@@ -3,6 +3,7 @@
 This repository implements two approaches to sovle HateSpeech Detection tasks.
 
 ## Dependencies
+To reproduce the experiment of our model, please install the requirements.txt according to the following instructions:
 * Python 3
 * Pytorch (version 0.4.0)
 * Transformers
