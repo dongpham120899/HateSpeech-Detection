@@ -3,7 +3,7 @@ This repository implements a web api using Flask to detect hatespeech.
 
 Input: Text
 
-Outout: Toxicity score
+Output: Toxicity score
 ## How to use
 To run our Web API, follow command:
 ```
