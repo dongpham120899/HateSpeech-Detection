@@ -14,6 +14,6 @@ You can send a request with the following command, then the system will return t
 url = "http://10.124.67.54:5000/result?format=json"
 requests.post(url, data={'result':'xin chao me m', 'model':'LSTM'})
 ```
-url address
-result: text input
-model: :LSTM/enviBert/phoBert
+* url address
+* result: text input
+* model: :LSTM/enviBert/phoBert
