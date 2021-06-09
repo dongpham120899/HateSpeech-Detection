@@ -1,0 +1,2377 @@
+HTX	hợp tác xã
+BS	bác sĩ
+GDVN	giáo dục việt nam
+KM/H	ki lô mét trên giờ
+GB	ghi-ga-bai
+NN-PTNT	nông nghiệp phát triển nông thôn
+VHTTDL	văn hoá thể thao du lịch
+TTHC	thủ tục hành chính
+BXH	bảng xếp hạng
+VH-TT	văn hoá thể thao
+TN-MT	tài nguyên môi trường
+PGS-TS	phó giáo sư tiến sĩ
+DNNVV	doanh nghiệp nhỏ và vừa
+VH-TT-DL	văn hoá thể thao du lịch
+KT-XH	kinh tế xã hội
+BHTN	bảo hiểm thất nghiệp
+NHM	người hâm mộ
+GHZ	ghi ga héc
+DTTS	dân tộc thiểu số
+CHQS	chỉ huy quân sự
+NTNN	nhà thầu nước ngoài
+PCLB	phòng chống lụt bão
+TPCP	trái phiếu chính phủ
+KH-CN	khoa học công nghệ
+TT-TT	thông tin truyền thông
+GDCK	giao dịch chứng khoán
+TBN	Tây Ban Nha
+CSB	cảnh sát biển
+XS	xổ số
+PLVN	pháp luật Việt Nam
+SXKD	sản xuất kinh doanh
+BCTC	báo cáo tài chính
+TTTT	thông tin truyền thông
+BVMT	bảo vệ môi trường
+GS-TS	giáo sư tiến sĩ
+LTS	lời toà soạn
+CHXHCN	cộng hoà xã hội chủ nghĩa
+CNTT-TT	công nghệ thông tin truyền thông
+GT-VT	giao thông vận tải
+CSND	cảnh sát nhân dân
+HSMT	hồ sơ mời thầu
+BLV	bình luận viên
+TTKS	tuần tra kiểm soát
+NDVN	nông dân Việt Nam
+CNCH	cứu nạn cứu hộ
+CNHT	công nghiệp hỗ trợ
+CMCN	cách mạng công nghiệp
+MXH	mạng xã hội
+SBT	sách bài tập
+QBV	quả bóng vàng
+STT	số thứ tự
+PCTP	phòng chống tội phạm
+TNTT	thiếu nhi thánh thể
+QCVN	quy chuẩn Việt Nam
+BQT	ban quản trị
+TDDC	thể dục dụng cụ
+KCX-KCN	khu chế xuất khu công nghiệp
+CNXH	chủ nghĩa xã hội
+PBGDPL	phổ biến giáo dục pháp luật
+BLDS	bộ luật dân sự
+XDLL	xây dựng lực lượng
+BLTTHS	bộ luật tố tụng hình sự
+NNT	người nộp thuế
+VBQPPL	văn bản quy phạm pháp luật
+NSX	nhà sản xuất
+XHTT	xã hội thông tin
+KHLCNT	kê hoạch lựa chọn nhà thầu
+LMLM	lở mồm long móng
+DNBH	doanh nghiệp bảo hiểm
+LLVTND	lực lượng vũ trang nhân dân
+CSTT	cảnh sát trật tự
+PNVN	phụ nữ Việt Nam
+TTXD	trật tự xây dựng
+TS-BS	tiến sĩ bác sĩ
+KTXH	kinh tê xã hội
+HKVN	hàng không Việt Nam
+BCTN	báo cáo thường niên
+QT	quốc tế
+HHHV	hoa hậu hoàn vũ
+LLTP	lí lịch tư pháp
+HKQT	hàng không quốc tế
+PGD	phòng giáo dục
+TBNN	trung bình nhiều năm
+GDKHQ	giao dịch không hưởng quyền
+HSDT	hồ sơ dự thầu
+BHTG	bảo hiểm tiền gửi
+CBCCVC	cán bộ, công chức, viên chức
+BPCK	biên phòng cửa khẩu
+GDPT	gia đình phật tử
+KTSTQ	kiểm tra sau thông quan
+CSMT	cảnh sát môi trường
+QLHC	quản lí hành chính
+NMLD	nhà máy lọc dầu
+CBNV	cán bộ nhân viên
+QNCN	quân nhân chuyên nghiệp
+TCCT	tổng cục chính trị
+PK-KQ	phòng không không quân
+QS	quân sự
+BHNN	bảo hiểm nông nghiệp
+BQP	bộ quốc phòng
+MTQG	mục tiêu quốc gia
+VPHC	vi phạm hành chính
+KD	kinh doanh
+GDMN	giáo dục mầm non
+XNC	xuất nhập cảnh
+DTNN	dự trữ nhà nước
+BCC	Bộ chính trị
+PTNN	phát triển nông nhiệp
+QPPL	quy phạm pháp luật
+VPCC	văn phòng công chứng
+CCCD	căn cước công dân
+VNCH	Việt Nam Cộng hoà
+LNST	lợi nhuận sau thuế
+BNHV	bước nhảy hoàn vũ
+NNCNC	nông nghiệp công nghệ cao
+TMDV	thương mại dịch vụ
+TTTV	thể thao ti vi
+VSMT	vệ sinh môi trường
+MTTH	ma tuý tổng hợp
+KCN-KCX	khu công nghiệp khu chế xuất
+QP	quốc phòng
+STK	số tài khoản
+KTNT	kinh tế nông thôn
+VTHKCC	vận tải hành khách công cộng
+GS-TSKH	giáo sư tiến sĩ khoa học
+BHNT	bảo hiểm nhân thọ
+NTTS	nuôi trồng thuỷ sản
+DQTV	dân quân tự vệ
+NVQS	nghĩa vụ quân sự
+TTKTTV	trung tâm khí tượng thuỷ văn
+XDNTM	xây dựng nông thôn mới
+BLTTDS	bộ luật tố tụng dân sự
+PCCN	phòng chống cháy nổ
+PCTPMT	phòng chống tội phạm ma tuý
+MG/KG	miligram trên kilogram
+GSHT	giám sát hành trình
+NDTV	nhân dân tự vệ
+CBPG	chống bán phá giá
+CMT	chứng minh thư
+TTDH	thách thức danh hài
+QH-KT	quy hoạch-kiến trúc
+PCCCR	phòng cháy chữa cháy rừng
+KTTT	kinh tế thị trường
+PTDTNT	phổ thông dân tộc nội trú
+HSD	hạn sử dụng
+GTGD	giá trị giao dịch
+BCS	Bao Cao Su
+NGND	nhà giáo nhân dân
+KQKD	kết quả kinh doanh
+M/S	mét trên giây
+VPQH	văn phòng quốc hội
+BL	bình luận
+CKQT	cửa khẩu quốc tế
+PCMT	phòng chống ma tuý
+NX	nhận xét
+PMH	phiếu mua hàng
+KCNC	khu công nghệ cao
+HTXNN	hợp tác xã nông nghiệp
+CBTT	công bố thông tin
+TPDN	trái phiếu doanh nghiệp
+TCTN	trợ cấp thất nghiệp
+NDCM	nhân dân cách mạng
+HMTN	hiến máu tình nguyện
+PCTHTL	phòng chống tác hại thuốc lá
+CHKQT	cảng hàng không quốc tế
+GDCD	giáo dục công dân
+LHPNVN	liên hiệp phụ nữ Việt Nam
+LNTT	lợi nhuận trước thuế
+QTDND	quỹ tín dụng nhân dân
+DVMTR	dịch vụ môi trường rừng
+CTRL	control
+PKL	phân khối lớn
+QSMT	quay số mở thưởng
+THADS	thi hành án dân sự
+SGGPO	Sài Gòn giải phóng
+VSATTP	vệ sinh an toàn thực phẩm
+ANTV	an ninh ti vi
+ANND	an ninh nhân dân
+NSUT	nghệ sĩ ưu tú
+ANTG	an ninh thế giới
+UTGT	ùn tắc giao thông
+VAC	vườn ao chuồng
+QPAN	quốc phòng an ninh
+CATW	công an trung ương
+UBDT	Uỷ ban Dân tộc
+ANQG	an ninh quốc gia
+ANCT	An ninh chính trị
+ANĐT	An ninh điều tra
+ANTQ	An ninh tổ quốc
+ATGT	An toàn giao thông
+ATNĐ	Áp thấp nhiệt đới
+ATTP	An toàn thực phẩm
+ATTT	An toàn Trật tự
+ATTTGT	An toàn Trật tự Giao thông
+ATVSTP	An toàn vệ sinh thực phẩm
+BBCVT	Bộ Bưu chính Viễn thông
+BBT	Ban biên tập
+BCĐ	Ban chỉ đạo
+BCĐĐMĐH	Ban chỉ đạo đổi mới đại học
+BCĐQG	Ban chỉ đạo Quốc gia
+BCĐT	Bưu chính điện tử
+BCĐTS	Ban chỉ đạo tuyển sinh
+BCH	Ban chấp hành
+BCHCD	Ban chỉ huy chiến dịch
+BCHQS	Bộ chỉ huy quân sự
+BCT	bộ chính trị
+BCVT	Bưu chính Viễn thông
+BĐN	Bồ đào nha
+BĐS	Bất động sản
+BĐVN	Bóng đá Việt Nam
+BGD	Bộ Giáo dục
+BGH	Ban giám hiệu
+BGK	Ban giám khảo
+BHĐC	Bán hàng đa cấp
+BHL	Ban huấn luyện
+BHXH	Bảo hiểm xã hội
+BHYT	Bảo hiểm y tế
+BKS	Biển Kiểm soát
+BLHS	Bộ luật Hình sự
+BQL	Ban quản lý
+BQLDA	Ban Quản lý dự án
+BST	Bộ sưu tập
+BTBNN	Bảo trợ bệnh nhân nghèo
+BTC	Ban tổ chức
+BTS	Ban tuyển sinh
+BTV	Biên tập viên
+BTVH	Bổ túc Văn hóa
+BVĐK	Bệnh viện Đa khoa
+BVTV	Bảo vệ thực vật
+BXL	Bộ xử lý
+CAHN	Công an Hà Nội
+CAND	Công an nhân dân
+CATP	Công an Thành phố
+CBCC	Cán bộ công chức
+CBCNV	Cán bộ công nhân viên
+CBCS	Cán bộ chiến sĩ
+CBQLGD	Cán bộ quản lý giáo dục
+CCB	Cựu chiến binh
+CCHC	Cải cách hành chính
+CĐDC	Chất độc da cam
+CĐSP	Cao đẳng Sư phạm
+CĐV	Cổ động viên
+CHDC	Cộng hòa dân chủ
+CHDCND	Cộng hòa dân chủ nhân dân
+CHLB	Cộng hòa Liên bang
+CHND	Cộng hòa Nhân dân
+CLB	Câu lạc bộ
+CMND	Chứng minh nhân dân
+CNCN	Chi nhánh Cấp nước
+CNH	Công nghiệp hóa
+CNKT	Công nhân kỹ thuật
+CNQSDĐ	Chứng nhận quyền sử dụng đất
+CNSH	Công nghệ sinh học
+CNTN	Cử nhân tài năng
+CNTT	Công nghệ thông tin
+CNV	Công nhân viên
+CNVC	Công nhân viên chức
+CPH	Cổ phần hóa
+CPTD	Cổ phiếu tự do
+CPTTT	Chậm phát triển trí tuệ
+CPXD	Cấp phép xây dựng
+CQĐT	Cơ quan điều tra
+CSCĐ	Cảnh sát cơ động
+CSDC	Cảnh sát dã chiến
+CSDL	Cơ sở Dữ liệu
+CSĐN	Cảnh sát đặc nhiệm
+CSĐT	Cảnh sát điều tra
+CSĐTLX	Cơ sở đào tạo lái xe
+CSĐTTP	Cảnh sát Điều tra tội phạm
+CSĐTTPMT	Cảnh sát điều tra tội phạm ma túy
+CSG	Cảng sài gòn
+CSGT	Cảnh sát giao thông
+CSHS	Cảnh sát Hình sự
+CSKH	Chăm sóc khách hàng
+CSKT	Cảnh sát kinh tế
+CSKV	Cảnh sát khu vực
+CSPK	Công suất phản kháng
+CSQLHC	Cảnh sát Quản lý hành chính
+CSSX	Cơ sở sản xuất
+CSVC	Cơ sở vật chất
+CSVN	Cộng sản Việt Nam
+CSXH	Chính sách xã hội
+CTCC	Công trình Công cộng
+CTCH	Chấn thương chỉnh hình
+CTCK	Công ty chứng khoán
+CTCLQG	Chương trình chống lao quốc gia
+CTCN	Công ty Cấp nước
+CTCP	Công ty Cổ phần
+CTĐ	Chữ thập đỏ
+CTĐL	Công ty Điện lực
+CTN	Chuyển tiền nhanh
+CTSN	Chấn thương sọ não
+CTTC	Cho thuê tài chính
+CTTH	Chương trình truyền hình
+CTTNHH	Công ty Trách nhiệm Hữu hạn
+CTTT	Chương trình tiên tiến
+CTV	Cộng tác viên
+CTXH	Công tác xã hội
+CVPM	Công viên phần mềm
+DAGTĐT	Dự án giao thông đô thị
+ĐBDT	Đồng bào dân tộc
+ĐBP	Điện biên phủ
+ĐBQH	Đại biểu quốc hội
+ĐBSCL	Đồng bằng sông Cửu Long
+ĐBTN	Đại biểu thanh niên
+ĐBTSXB	Đánh bắt thủy sản xa bờ
+DCCH	Dân chủ Cộng hòa
+ĐCS	Đảng cộng sản
+ĐCSTQ	Đảng cộng sản Trung Quốc
+ĐCSVN	Đảng cộng sản Việt Nam
+DDVN	Duyên dáng việt nam
+ĐHBC	Đại học Bán công
+ĐHBK	Đại học Bách khoa
+ĐHBKHN	Đại học Bách khoa Hà Nội
+ĐHBKTPHCM	Đại học Bách khoa Thành phố Hồ Chí Minh
+ĐHCĐ	Đại hội cổ đông
+ĐHCLC	Đại học chất lượng cao
+ĐHCN	Đại học Công nghệ
+ĐHCT	Đại học Cần Thơ
+ĐHĐCQT	Đại học đẳng cấp quốc tế
+ĐHĐD	Đại học Đông Dương
+ĐHDL	Đại học Dân lập
+ĐHĐN	Đại học Đà nẵng
+ĐHGTVT	Đại học Giao thông Vận tải
+ĐHHB	Đại học Hồng Bàng
+ĐHKH	Đại học Khoa học
+ĐHKHTN	Đại học Khoa học tự nhiên
+ĐHKHTNHN	Đại học Khoa học tự nhiên Hà nội
+ĐHKHXH	Đại học Khoa học Xã hội
+ĐHKT	Đại học Kỹ thuật
+ĐHKTCN	Đại học Kỹ thuật Công nghệ
+ĐHKTQD	Đại học Kinh tế Quốc dân
+ĐHN	Điện hạt nhân
+ĐHNT	Đại học Nha Trang
+ĐHQG	Đại học Quốc gia
+ĐHQGHN	Đại học Quốc gia Hà nội
+DHS	Du học sinh
+ĐHSP	Đại học Sư phạm
+ĐKDT	Đăng ký dự thi
+ĐKĐT	Điện kế điện tử
+ĐKHK	Đăng ký hộ khẩu
+ĐKKD	Đăng ký kinh doanh
+ĐKKH	Đăng ký kết hôn
+ĐKVĐ	Đương kim vô địch
+ĐKVN	Điền kinh Việt Nam
+ĐKXT	Đăng ký xét tuyển
+ĐMN	Đá mỹ nghệ
+ĐNA	Đông nam á
+DNNN	Doanh nghiệp nhà nước
+DNT	Doanh nghiệp trẻ
+DNTN	Doanh nghiệp Tư nhân
+DNVN	Doanh nghiệp Việt Nam
+DNVVN	Doanh nghiệp vừa và nhỏ
+ĐRL	Điểm rèn luyện
+ĐSQ	Đại sứ quán
+ĐTA	Đồng tính ái
+ĐTB	Điểm trung bình
+ĐTĐ	Đái tháo đường
+ĐTDĐ	Điện thoại di động
+DTHT	Dạy thêm học thêm
+ĐTHVN	Đài truyền hình Việt Nam
+ĐTLA	Đồng tính luyến ái
+ĐTLT	Đào tạo liên thông
+ĐTNN	Đầu tư nước ngoài
+ĐTQG	Đội tuyển quốc gia
+ĐTTX	Đào tạo từ xa
+ĐTTXQM	Đào tạo từ xa Qua mạng
+ĐTV	Điều tra viên
+ĐTVHD	Động thực vật hoang dã
+ĐTVN	Đội tuyển Việt Nam
+ĐTXDCB	Đầu tư xây dựng cơ bả
+ĐVHT	Đơn vị học trình
+DVTMCM	Dịch vụ thương mại Cà Mau
+ĐVTN	Đoàn viên thanh niên
+DVTT	Dịch vụ trực tuyến
+ĐVTTN	Đoàn viên thanh thiếu nhi
+DVVL	Dịch vụ việc làm
+GCMND	Giấy chứng minh nhân dân
+GCN	Giấy chứng nhận
+GCNĐKKD	Giấy chứng nhận đăng ký kinh doanh
+GCNKQT	Giấy chứng nhận kết quả thi
+GCNQSD	Giấy chứng nhận quyền sử dụng
+GCNQSDĐ	Giấy chứng nhận quyền sử dụng đất
+GCNQSH	Giấy chứng nhận quyền sở hữu
+GCNQSHN	Giấy chứng nhận quyền sở hữu nhà
+GCNSK	Giấy chứng nhận sức khỏe
+GCQ	Giấy chủ quyền
+GĐĐH	Giám đốc điều hành
+GDGT	Giáo dục giới tính
+GDNN	Giáo dục nghề nghiệp
+GĐT	Gạch đồng tâm
+GĐTLA	Gạch đồng tâm long an
+GĐTT	Giám đốc thông tin
+GDTX	Giáo dục thường xuyên
+GHPGVN	Giáo hội Phật giáo Việt Nam
+GMD	Gái mại dâm
+GPLHĐB	Giấy phép lưu hành đặc biệt
+GPLX	Giấy phép lái xe
+GPMB	Giải phóng mặt bằng
+GPTM	Giải phẫu thẩm mỹ
+GPXD	Giấy phép xây dựng
+GSTS	Giáo sư Tiến sỹ
+GSTSKH	Giáo sư Tiến sỹ Khoa học
+GSTT	Giám sát trọng tài
+GTCC	Giao thông Công chánh
+GTGT	Giá trị gia tăng
+GTMT	Giãn tĩnh mạch tinh
+GTNT	Giao thông nông thôn
+GTVT	Giao thông vận tải
+GVCN	Giáo viên chủ nhiệm
+GVG	Giáo viên giỏi
+GVMN	Giáo viên mầm non
+GVTH	Giáo viên tiểu học
+GVTN	Giáo viên tình nguyện
+HAGL	hoàng anh gia lai
+HCB	Huy chương bạc
+HCĐ	Huy chương đồng
+HCM	Hồ chí minh
+HCTC	Học chế tín chỉ
+HCTL	Hội chợ triển lăm
+HCV	Huy chương vàng
+HCVL	Hội chợ việc làm
+HĐCD	Hội đồng chức danh
+HĐCDGS	Hội đồng chức danh giáo sư
+HĐCDGSCS	Hội đồng chức danh giáo sư cơ sở
+HĐCDGSN	Hội đồng Chức danh giáo sư ngành
+HĐCDGSNN	Hội đồng Chức danh giáo sư nhà nước
+HĐCT	Hội đồng coi thi
+HĐĐB	Hội đồng Đền bù
+HĐĐG	Hội đồng định giá
+HĐH	Hiện đại hóa
+HĐKT	Hợp đồng kinh tế
+HĐLĐ	Hợp đồng lao động
+HĐND	Hội đồng nhân dân
+HĐNDTP	Hội đồng nhân dân thành phố
+HĐNT	Hội đồng nghệ thuật
+HĐQT	Hội đồng Quản trị
+HĐT	Hội đồng trường
+HĐTĐ	Hội đồng thẩm định
+HĐTS	Hội đồng tuyển sinh
+HĐTT	Hội đồng Trọng tài
+HDV	Hướng dẫn viên
+HĐXX	Hội đồng xét xử
+HHTG	Hoa hậu Thế giới
+HHVN	Hoa hậu Việt Nam
+HKDD	Hàng không dân dụng
+HKDDVN	Hàng không dân dụng Việt Nam
+HKHKT	Hội khoa học kỹ thuật
+HKHKTVN	Hội khoa học kỹ thuật Việt Nam
+HKTT	Hộ khẩu thường trú
+HLBĐ	Hoa lâm bình định
+HLQG	Huấn luyện Quốc gia
+HLV	Huấn luyện viên
+HMNĐ	Hiến máu nhân đạo
+HND	Hội nông dân
+HNGĐ	Hôn nhân gia đình
+HNHT	Hội nghị hiệp thương
+HPHN	Hòa phát hà nội
+HQĐT	Hải quan điện tử
+HQHP	Hải quan Hải phòng
+HSBC	Học sinh bán công
+HSĐKDT	Hồ sơ đăng ký dự thi
+HSG	Học sinh giỏi
+HSGQG	Học sinh giỏi Quốc gia
+HSGQT	Học sinh giỏi Quốc tế
+HSPT	Học sinh phổ thông
+HSSV	Học sinh sinh viên
+HSV	Hội sinh viên
+HTCĐ	Học tập cộng đồng
+HTND	hỗ trợ nông dân
+HTXDVNN	Hợp tác xã dịch vụ nông nghiệp
+HVANND	Học viện An ninh Nhân dân
+HVBCVT	Học viện Bưu chính Viễn thông
+HVCH	Học viên Cao học
+HVCNBCVT	Học viện Công nghệ Bưu chính Viễn thông
+HVKHQS	Học viện Khoa học Quân sự
+HVN	Honda việt nam
+HVNCL	Hàng Việt Nam chất lượng
+HVNCLC	Hàng Việt Nam chất lượng cao
+HVNH	Học viện Ngân hàng
+KBNN	Kho bạc Nhà nước
+KCB	Khám chữa bệnh
+KCN	Khu công nghiệp
+KCX	Khu chế xuất
+KDC	Khu dân cư
+KĐCL	Kiểm định chất lượng
+KĐCLGD	Kiểm định chất lượng Giáo dục
+KDCN	Kiểu dáng công nghiệp
+KDDV	Kinh doanh dịch vụ
+KDĐV	Kiểm dịch động vật
+KDHĐC	Kinh doanh hàng đa cấp
+KDL	Khu du lịch
+KDN	Kinh doanh nhà
+KDNPN	Kinh doanh nhà Phú Nhuận
+KĐS	Khu đường sông
+KĐT	Khu đô thị
+KĐTM	Khu đô thị mới
+KHCN	Khoa học Công nghệ
+KHĐT	Kế hoạch Đầu tư
+KHKD	Kế hoạch kinh doanh
+KHKT	Khoa học kĩ thuật
+KHKTHN	Khoa học Kỹ thuật Hạt nhân
+KHKTHS	Khoa học kỹ thuật hình sự
+KHKTNN	Khoa học kỹ thuật Nông nghiệp
+KHKTNNMN	Khoa học kỹ thuật Nông nghiệp miền Nam
+KHLS	Khoa học lịch sử
+KHTN	Khoa học Tự nhiên
+KHXH	Khoa học Xãn hội
+KKT	Khu kinh tế
+KLĐT	Kết luận điều tra
+KLQG	Kỷ lục quốc gia
+KNTC	Khiếu nại tố cáo
+KSND	Kiểm sát nhân dân
+KSNDTC	Kiểm sát Nhân dân Tối cao
+KST	Ký sinh trùng
+KSV	Kiểm sát viên
+KTCN	kĩ thuật công nghệ
+KTM	Khu thương mại
+KTNN	Kinh tế nhà nước
+KTQD	Kinh tế quốc dân
+KTQDHN	Kinh tế Quốc dân Hà Nội
+KTS	Kiến trúc sư
+KTTV	Khí tượng thủy văn
+KTV	Kỹ thuật viên
+KTX	Ký túc xá
+KV1	Khu vực 1
+KV2	Khu vực 2
+KV3	Khu vực 3
+LCT	Luật Cạnh tranh
+LĐBĐ	Liên đoàn bóng đá
+LĐBĐVN	Liên đoàn bóng đá Việt Nam
+LĐLĐ	Liên đoàn Lao động
+LĐTB	Lao động Thương binh
+LĐTBXH	Lao động Thương binh Xã hội
+LHP	Liên hoan phim
+LHPN	Liên hiệp phụ nữ
+LHQ	Liên hiệp quốc
+LHS	Lưu học sinh
+LHTN	Liên hiệp Thanh niên
+LLLĐ	Lực lượng lao động
+LLVT	Lực lượng vũ trang
+LSQ	Lãnh sự quán
+LTQĐTD	Lây truyền qua đường tình dục
+MBH	Mũ bảo hiểm
+MHX	Mùa hè xanh
+MTĐT	Máy tính điện tử
+MTTQ	Mặt trận tổ quốc
+MTTQVN	Mặt trận tổ quốc Việt Nam
+MTXT	Máy tính xách tay
+NCC	Nhà cung cấp
+NCKH	Nghiên cứu khoa học
+NCL	Ngoài công lập
+NCS	Nghiên cứu sinh
+NCTT	Nghiên cứu thị trường
+NDT	Nhân dân tệ
+NĐT	Nhà đầu tư
+NĐVN	Người đẹp Việt Nam
+NHCSXH	Ngân hàng chính sách xã hội
+NHCTCN	Ngân hàng Công thương Chi nhánh
+NHCTHP	Ngân hàng Công thương Hải Phòng
+NHCTVN	Ngân hàng Công thương Việt Nam
+NHĐA	Ngân hàng Đông Á
+NHĐT	Ngân hàng Đầu tư
+NHĐTPT	Ngân hàng Đầu tư phát triển
+NHNN	Ngân hàng nhà nước
+NHNNVN	Ngân hàng Nhà nước Việt Nam
+NHNT	Ngân hàng Ngoại thương
+NHTM	Ngân hàng Thương mại
+NHTMCP	Ngân hàng thương mại cổ phần
+NHTMNN	Ngân hàng thương mại nhà nước
+NHTMQD	Ngân hàng thương mại quốc doanh
+NKBV	Nhiễm khuẩn bệnh viện
+NKKN	Nam kỳ khởi nghĩa
+NKNV	Năng khiếu Nghiệp vụ
+NKT	Người khuyết tật
+NLĐ	Người lao động
+NLMT	Năng lượng mặt trời
+NLS	Nông lâm sản
+NLTT	Năng lượng tái tạo
+NMĐ	Nhà máy điện
+NNCĐDC	Nạn nhân chất độc da cam
+NNVN	nông nghiệp Việt Nam
+NPP	Nhà phân phối
+NQD	Ngoài quốc doanh
+NSND	Nghệ sĩ nhân dân
+NSNN	Ngân sách nhà nước
+NST	Nhiễm sắc thể
+NTBD	Nghệ thuật biểu diễn
+NTD	Nhà tuyển dụng
+NTK	Nhà thiết kế
+NV1	Nguyện vọng 1
+NV2	Nguyện vọng 2
+NV3	Nguyện vọng 3
+NVH	Nhà văn hóa
+NVHTN	Nhà Văn hóa Thanh niên
+NXB	Nhà xuất bản
+NXBGD	Nhà xuất bản Giáo dục
+NXBKHXH	Nhà xuất bản Khoa học Xã hội
+NXBQĐND	Nhà xuất bản Quân đội Nhân dân
+NXBTN	Nhà xuất bản Tự nhiên
+PCBL	Phòng chống bão lụt
+PCBTH	Phổ cập bậc trung học
+PCC	Phòng công chứng
+PCCC	Phòng cháy chữa cháy
+PCGD	Phổ cập giáo dục
+PCGDBTH	Phổ cập giáo dục bậc trung học
+PCGDTH	Phổ cập giáo dục tiểu học
+PCGDTHCS	Phổ cập giáo dục trung học cơ sở
+PCLBMN	Phòng chống lụt bão miền Nam
+PCT	Phó chủ tịch
+PCTH	Phổ cập tiểu học
+PCTHCS	Phổ cập trung học cơ sở
+PCTN	Phòng chống tệ nạn
+PCTNXH	Phòng chống tệ nạn xã hội
+PCTPCNC	Phòng chống tội phạm công nghệ cao
+PCTT	Phòng chống thiên tai
+PGĐ	Phó giám đốc
+PGHH	Phật giáo Hòa Hảo
+PGS	Phó Giáo sư
+PHHS	Phụ huynh học sinh
+PTCS	Phổ thông cơ sở
+PTN	Phòng thí nghiệm
+PTNT	Phát triển Nông thôn
+PTT	Phó thủ tướng
+PTTH	Phổ thông trung học
+PTTM	Phẫu thuật thẩm mỹ
+PTTT	Phát triển trẻ thơ
+PTV	Phát thanh viên
+QBLTD	Quĩ bảo lãnh tín dụng
+QCDC	Quy chế dân chủ
+QCDCCS	Quy chế dân chủ cơ sở
+QCGNHH	Quy chế ghi nhãn hàng hóa
+QCHQ	Quan chức hải quan
+QCKDTXD	Quy chế kinh doanh thép xây dựng
+QCKT	Quy chuẩn kĩ thuật
+QĐND	Quân đội nhân dân
+QHTD	Quan hệ tình dục
+QLD	Quản lý dược
+QLDA	Quản lý dự án
+QLĐT	Quản lý Đào tạo
+QLTT	Quản lý thị trường
+QSD	Quyền sử dụng
+QSDĐ	Quyền sử dụng đất
+QTKD	Quản trị Kinh doanh
+RLC	Rối loạn cương
+RLCD	Rối loạn cương dương
+SBD	Số báo danh
+SDĐ	Sử dụng đất
+SDĐNN	Sử dụng đất nông nghiệp
+SĐH	Sau đại học
+SĐK	Số đăng ký
+SĐNĐ	Sông đà nam định
+SĐT	Số điện thoại
+SĐTLA	Sơn đồng tâm long an
+SGD	Sở giáo dục
+SGGP	Sài gòn giải phóng
+SGK	Sách giáo khoa
+SGTT	Sài gòn tiếp thị
+SGTVT	Sở Giao thông Vận tải
+SHNN	Sở hữu nhà nước
+SHTD	Sinh hoạt tình dục
+SHTT	Sở hữu trí tuệ
+SKHCN	Sở Khoa học Công nghệ
+SKSS	Sức khỏe sinh sản
+SLNA	Sông lam nghệ an
+SMĐH	Sao mai Điểm hẹn
+SNN	Sở Nông nghiệp
+SPKT	Sư phạm kỹ thuật
+SVĐ	Sân vận động
+SVĐV	Sao vàng đất việt
+SVHS	Sinh viên học sinh
+SVNCKH	Sinh viên nghiên cứu khoa học
+SVTN	Sinh viên tình nguyện
+SVVN	Sinh viên Việt Nam
+SXH	Sốt xuất huyết
+SYLL	Sơ yếu lý lịch
+TACN	Thức ăn chăn nuôi
+TAND	Tòa án nhân dân
+TANDTC	Tòa án Nhân dân Tối cao
+TBD	Thái bình dương
+TBKTSG	Thời báo kinh tế Sài Gòn
+TBKTVN	Thời báo Kinh tế Việt Nam
+TBMMN	Tai biến mạch máu não
+TBT	Tổng biên tập
+TBTT	Thuê bao trả trước
+TBXH	Thương binh Xã hội
+TCCN	Trung cấp chuyên nghiệp
+TCCS	Tổ chức cơ sở
+TCDL	Tổng cục Du lịch
+TCHL	Tuyệt chủng hàng loạt
+TCHQ	Tổng cục hải quan
+TCMN	Thủ công mỹ nghệ
+TCMR	Tiêm chủng mở rộng
+TCN	Trung cấp nghề
+TCNN	Tài chính nhà nước
+TCS	Trịnh công sơn
+TCT	Tổng công ty
+TCTD	Tổ chức tín dụng
+TCTT	Trò chơi trực tuyến
+TCTTMSG	Tổng công ty Thương mại Sài Gòn
+TCVN	Tiêu chuẩn Việt Nam
+TCVSG	Thảo cầm viên sài gòn
+TĐBKVN	Từ điển bách khoa việt nam
+TĐC	Tái định cư
+TDTT	Thể dục thể thao
+TDTTQG	Thể dục thể thao Quốc gia
+TDV	Trình dược viên
+TGĐ	Tổng giám đốc
+TGPL	Trợ giúp pháp lý
+THCB	Trung học Chuyên ban
+THCN	Trung học chuyên nghiệp
+THCS	Trung học cơ sở
+THCSNĐ	Thực hiện chính sách nhà đất
+THDL	Trung học dân lập
+THGT	Tín hiệu giao thông
+THKTS	Truyền hình kỹ thuật số
+THKTSMĐ	Truyền hình kỹ thuật số mặt đất
+THPT	Trung học phổ thông
+THQG	Thương hiệu quốc gia
+THS	Tín hiệu số
+THTT	Truyền hình trực tiếp
+THVN	Truyền hình Việt Nam
+THX	Tân hoa xã
+TKCN	Tìm kiếm cứu nạn
+TMCP	Thương mại cổ phần
+TMĐT	Thương mại Điện tử
+TMN	Thép miền nam
+TNCN	Thu nhập cá nhân
+TNCS	Thanh niên cộng sản
+TNĐH	Tốt nghiệp đại học
+TNDN	Thu nhập doanh nghiệp
+TNĐT	Thoát nước Đô thị
+TNGT	Tai nạn giao thông
+TNHC	Trinh nữ hoàng cung
+TNHH	Trách nhiệm hữu hạn
+TNK	Thuế nhập khẩu
+TNKQ	Trắc nghiệm khách quan
+TNLN	Thanh niên lập nghiệp
+TNMT	Tài nguyên Môi trường
+TNND	Tiếng nói Nhân dân
+TNNT	Thanh niên nông thôn
+TNO	Thanh niên Online
+TNSV	Thanh niên sinh viên
+TNSVVN	Thanh niên sinh viên Việt Nam
+TNT	Tình nguyện trẻ
+TNTN	Thanh niên tình nguyện
+TNTP	Thiếu niên Tiền phong
+TNVN	Thanh niên Việt Nam
+TNXH	Tệ nạn xã hội
+TNXK	Thanh niên xung kích
+TNXP	Thanh niên xung phong
+TPCĐ	Trái phiếu chuyển đổi
+TPCN	Thực phẩm chức năng
+TPCT	Thành phố Cần Thơ
+TPHCM	Thành phố hồ chí minh
+TPO	Tiên phong Online
+TSDĐ	Tiền sử dụng đất
+TSKH	Tiến sỹ Khoa học
+TSN	Tân sơn nhất
+TSVM	Trong sạch vững mạnh
+TTATGT	trật tự an toàn giao thông
+TTATXH	trật tự an toàn xã hội
+TTBĐS	Thị trường bất động sản
+TTBDVH	Trung tâm bồi dưỡng văn hóa
+TTBDVHNG	Trung tâm bồi dưỡng văn hóa ngoài giờ
+TTBVQTG	Trung tâm bảo vệ quyền tác giả
+TTBYT	Trang thiết bị y tế
+TTCK	Trung tâm chứng khoán
+TTCN	Tiểu thủ công nghiệp
+TTCP	Thanh tra Chính phủ
+TTCT	Thể thao cuối tuần
+TTDD	Trung tâm Dinh dưỡng
+TTĐM	Trung tâm Điện máy
+TTDV	Trung tâm Dịch vụ
+TTDVVL	Trung tâm Dịch vụ việc làm
+TTGDCK	Trung tâm giao dich chứng khoán
+TTGDTX	Trung tâm Giáo dục thường xuyên
+TTGT	Trật tự Giao thông
+TTH	Thừa thiên huế
+TTHTCĐ	Trung tâm học tập cộng đồng
+TTHTSV	Trung tâm hỗ trợ sinh viên
+TTK	Tổng thư ký
+TTLT	Thông tư liên tịch
+TTN	Thanh thiếu niên
+TTO	tuổi trẻ online
+TTQLKT	Trật tự quản lý kinh tế
+TTTH	Trung tâm Tin học
+TTTM	Trung tâm thương mại
+TTTON	Thụ tinh trong ống nghiệm
+TTTTN	Trí thức trẻ tình nguyện
+TTVGT	Trật tự viên giao thông
+TTVH	Trung tâm Văn hóa
+TTVN	Trí tuệ Việt Nam
+TTXH	Trật tự xã hội
+TTXVN	Thông tấn xã việt nam
+TTYT	Trung tâm y tế
+TTYTDP	Trung tâm Y tế dự phòng
+TVHK	Tiếp viên hàng không
+TVN	Than việt nam
+TVQH	Thường vụ Quốc hội
+TVV	Tư vấn viên
+UBCKNN	Ủy ban Chứng khoán Nhà nước
+UBKT	Ủy ban kiểm tra
+UBMTTQ	Ủy ban mặt trận tổ quốc
+UBMTTQVN	Ủy ban Mặt trận Tổ quốc Việt Nam
+UBND	Ủy ban nhân dân
+UBNDTP	Ủy ban Nhân dan Thành phố
+UBTDTT	Ủy ban Thể dục Thể thao
+UBTVQH	Ủy ban thường vụ Quốc hội
+UVBCH	Ủy viên ban chấp hành
+UVBCT	Ủy viên Bộ chính trị
+VCK	Vòng chung kết
+VĐQG	Vô địch Quốc gia
+VĐV	Vận động viên
+VĐVQG	Vận động viên Quốc gia
+VHGDTNTN	Văn hóa Giáo dục Thanh niên Thiếu niên
+VHNT	Văn học Nghệ thuật
+VHTT	Văn hóa Thông tin
+VKS	Viện kiểm sát
+VKSND	Viện kiểm sát nhân dân
+VKSNDTC	Viện Kiểm sát Nhân dân Tối cao
+VLTK	Võ lâm truyền kỳ
+VLXD	Vật liệu xây dựng
+VNĐ	Việt nam đồng
+VPCP	Văn phòng chính phủ
+VPĐD	Văn phòng đại diện
+VQG	Vườn Quốc gia
+XDCB	Xây dựng cơ bản
+XĐGN	Xoá đói giảm nghèo
+XDHK	Xăng dầu hàng không
+XHCN	Xã hội chủ nghĩa
+XHH	Xã hội hóa
+XKLĐ	xuất khẩu lao động
+XNK	Xuất nhập khẩu
+XSKT	Xổ số kiến thiết
+XTTM	Xúc tiến thương mại
+YKVN	Y khoa Việt Nam
+YTDP	Y tế Dự phòng
+BCĐPCTNTƯ	Ban chỉ đạo phòng chống tham nhũng trung ương
+BCHTƯ	Ban chỉ huy trung ương
+BCHTW	Ban chỉ huy trung ương
+BGDĐT	Bộ Giáo dục và Đào tạo
+BR-VT	Bà Rịa Vũng Tàu
+CPSXTM	Cổ phần sản xuất thương mại
+CSPCTPMT	cảnh sát phòng chống tội phạm ma túy
+ĐHBKHCM	Đại học Bách khoa Thành phố Hồ Chí Minh
+ĐHHVN	Đại học Hàng hải Việt Nam
+DHKTCN	Đại học Kỹ thuật Công nghệ
+ĐNÁ	Đông nam á
+DTQG	Đội tuyển quốc gia
+ĐVƯT	Đoàn viên ưu tú
+GCNQSDĐƠ	Giấy chứng nhận quyền sử dụng đất ở
+GCNQSHNƠ	Giấy chứng nhận quyền sở hữu nhà ở
+GDĐH	Giáo dục dục đại học
+GDĐT	Giáo dục & Đào tạo
+GPNK	giấy phép nhập khẩu
+HĐBA	Hội đồng Bảo an
+HDND	Hội đồng nhân dân
+HLTTQG	Trung tâm huấn luyện thể thao quốc gia
+HS-SV	học sinh sinh viên
+KĐTNTL	Khu đô thị Nam Thăng Long
+KWH	Ky lô oát giờ
+LHTNVN	Hội Liên hiệp Thanh niên Việt Nam
+MHZ	mê-ga-héc
+NHĐÁ	Ngân hàng Đông Á
+NHNNPTNT	Ngân hàng Nông nghiệp và Phát triển Nông thôn
+NHTƯ	Ngân hàng Trung ương
+NHTW	Ngân hàng Trung ương
+NN & PTNT	Nông nghiệp và phát triển nông thôn
+NNPTNT	Nông nghiệp và Phát triển nông thôn
+NSƯT	Nghệ sĩ ưu tú
+NXBVHTT	Nhà xuất bản Văn hóa Nghệ thuật
+P/V	phóng viên
+PCBLTKCN	Phòng chống bão lụt và tìm kiếm cứu nạn
+PCLBTƯ	Phòng chống lụt bão Trung ương
+PCLBTW	Phòng chống lụt bão Trung ương
+PT-TH	phân tích-tổng hợp
+SKHCNMT	Sở Khoa học Công nghệ và Môi trường
+SKHĐT	Sở Kế hoạch và Đầu tư
+SV–HS	Sinh viên học sinh
+TCBVNTD	Tiêu chuẩn và bảo vệ người tiêu dùng
+TCKH	Tài chính - Kế hoạch
+TCKT	Tài chính - Kế toán
+TTĐB	Thuế Tiêu thụ đặc biệt
+ƯCV	Ứng cử viên
+VHGDTTNNĐ	Văn hóa Giáo dục Thanh thiếu niên và Nhi đồng
+VND	Việt nam đồng
+VNM	Vinamilk
+VNN	Vietnamnet
+YTẾ	Y tế
+BĐ	Bóng đá
+BH	Bảo hiểm
+BK	Bách khoa
+BN	bệnh nhân
+BP	Biên phòng
+BV	Bệnh viện
+BX	Bến xe
+CĐ	Cao đẳng
+CK	Chung kết
+CN	công nghiệp
+CQ	cơ quan
+ĐB	Đại biểu
+ĐC	Địa chỉ
+DD	Dân dụng
+ĐD	Đại diện
+ĐH	Đại học
+ĐK	Đăng ký
+DL	Du lịch
+DN	Doanh nghiệp
+ĐT	Đào tạo
+DV	Dịch vụ
+GD	Giáo dục
+GP	Giấy phép
+GS	Giáo sư
+GT	Giao thông
+GV	Giáo viên
+HB	Học bổng
+Full HD	full hát đê
+HD	Hướng dẫn
+HĐ	Hội đồng
+HN	Hà nội
+HQ	Hải quan
+HS	Học sinh
+HV	Học viên
+KK	Khuyến khích
+KS	Kỹ sư
+LL	Lực lượng
+LS	Luật sư
+MS	Mã số
+NĐ	Nghị định
+NV	Nhân viên
+PL	Pháp luật
+PV	Phóng viên
+QĐ	Quyết định
+QG	Quốc gia
+QH	Quốc hội
+QK	Quân khu
+SG	Sài gòn
+SS	Sĩ số
+SX	Sản xuất
+SV	Sinh viên
+TP	Thành phố
+TQ	Trung Quốc
+TW	Trung ương
+TX	Thị xã
+VĐ	Vô địch
+VP	Văn phòng
+XH	Xã hội
+PGS.TS	phó giáo sư tiến sĩ
+TS	tiến sĩ
+Th.s	thạc sĩ
+VTV	vê tê vê
+CKTG	chung kết thế giới
+KH-ĐT	kế hoạch đầu tư
+MTV	một thành viên
+UB	ủy ban
+LĐ	Lao động
+TB-XH	thương binh và xã hội
+NN&PTNT	nông nghiệp và phát triển nông thôn
+BOT	bê ô tê
+LB	Liên bang
+T.Ư	trung ương
+GS.TS	giáo sư tiến sĩ
+TP.Hà Nội	thành phố hà nội
+TP.Hồ Chí Minh	thành phố Hồ Chí Minh
+tp.hcm	thành phố Hồ Chí Minh
+TP.HCM	thành phố Hồ Chí Minh
+SN	sinh năm
+VOV	vê ô vê
+cl	cái lồn
+Cl	Cái lồn
+clg	cái lồn gì
+Clg	Cái lồn gì
+clgt	cái lồn gì thế
+Clgt	Cái lờ gì thế
+clgv	cái lồn gì vậy
+Clgv	Cái lờ gì vậy
+cmn	con mẹ bó
+Cmn	con mẹ nó
+cmnl	con mẹ nó lồn
+Cmnl	con mẹ nó lồn
+dm	địt mẹ
+Dm	Địt mẹ
+đm	địt mẹ
+Đm	Địt mẹ
+dcm	địt con mẹ
+đcm	địt con mẹ
+Đcm	địt con mẹ
+dkm	địt con mẹ
+đkm	địt con mẹ
+dkmm	địt con mẹ mày
+Đkmm	Địt con mẹ mày
+đkmm	Địt con mẹ mày
+vl	vãi lồn
+Vl	vãi lờ
+vcl	vãi cả lờ
+Vcl	Vãi cả lờ
+vkl	Vãi cả lờ
+Vkl	Vãi cả lờ
+qq	quần què
+cmnr	con mẹ nó rồi
+cc	cục cứt
+mn	mọi người
+ms	mới
+ns	nói
+fb	ép bê
+Fb	Ép bê
+18+	mười tám cộng
+pk	phải không
+cmt	comment
+Cmt	Comment
+4'	phò
+dc	được
+đc	được
+vđ	vãi đái
+vs	với
+trc	trước
+Trc	Trước
+đk	được
+kk	ka ka
+Kk	Ka ka
+kkk	ka ka ka
+Kkk	Ka ka ka
+kkkk	ka ka ka ka
+Kkkk	Ka ka ka ka
+cx	cũng
+m	mày
+M	Mày
+h	giờ
+H	Giờ
+b	bạn
+B	Bạn
+t	tao
+T	Tao
+k	không
+ko	không
+ntn	như thế nào
+tdn	thế đéo nào
+tđn	thế đéo nào
+tsb	tiên sư bố
+vc	vãi cứt
+Vc	vãi cứt
+vch	vãi chưởng
+Vch	Vãi chưởng
+đhs	đéo hiểu sao
+Đhs	Đéo hiểu sao
+cmm	con mẹ mày
+cm	con mẹ
+j	gì
+ks	ca ét
+bh	bây giờ
+cdmm	cái địt mẹ mày
+cđmm	cái địt mẹ mày
+bt	bình thường
+3/	ba sọc
+ss	so sánh
+vk	vợ
+Vk	Vợ
+ck	chồng
+Ck	Chồng
+cdm	cái địt mẹ
+cđm	cái địt mẹ
+c	cờ
+v	vậy
+lm	làm
+Lm	Làm
+ngta	người ta
+Ngta	Người ta
+pls	please
+Pls	Please
+tk	tài khoản
+dcd	đéo chịu được
+đcđ	đéo chịu được
+Dcd	Đéo chịu được
+Đcđ	Đéo chịu được
+l	lờ
+vn	việt nam
+Vn	Việt nam
+VN	Việt Nam
+ng	người
+Ng	Người
+s	sao
+S	Sao
+r	rồi
+R	Rồi
+đb	đê bê
+ml	mờ lờ
+cđg	cái địt mẹ
+clm	cái lồn mẹ
+Clm	Cái lồn mẹ
+hp	hạnh phúc
+sdt	số điện thoại
+sđt	số điện thoại
+nv	như vậy
+tg	thời gian
+cg	cũng
+nyc	người yêu cũ
+Nyc	Người yêu cũ
+ny	người yêu
+mk	mình
+bthg	bình thường
+Bthg	Bình thường
+klq	không liên quan
+Klq	Không liên quan
+kq	kết quả
+Kq	Kết quả
+tq	trung quốc
+Tq	Trung quốc
+đ	đéo
+NKYN	Nhật Ký Yêu Nước
+ae	anh em
+Ae	Anh em
+ce	chị em
+Ce	Chị em
+glhf	good luck have fun
+Glhf	Good luck have fun
+ph	phút
+ctrl	control
+Ctrl	Control
+dk	được
+kg	không
+btrai	bạn trai
+gđ	gia đình
+hsd	hạn sử dụng
+IGL	in game leader
+qc	quảng cáo
+Qc	Quảng cáo
+Chs	Chả hiểu sao
+chs	chả hiểu sao
+pr	pê rờ
+Pr	Pê rờ
+cb	chuẩn bị
+hqa	hôm qua
+Hqa	Hôm qua
+hqua	hôm qua
+Hqua	Hôm qua
+sml	sấp mặt lờ
+Sml	sấp mặt lồn
+kh	không
+bn	bao nhiêu
+tmv	thẩm mỹ viện
+sd	sử dụng
+vcd	vãi cả đái
+Vcd	Vãi cả đái
+vcđ	vãi cả đái
+Vcđ	Vãi cả đái
+ktra	kiểm tra
+ctv	cộng tác viên
+sx	sản xuất
+nta	người ta
+Nta	Người ta
+dt	dễ thương
+cmj	con mẹ gì
+Cmj	Con mẹ gì
+lsao	làm sao
+bth	bình thường
+Bth	Bình thường
+đt	điện thoại
+Đt	Điện thoại
+qt	quan tâm
+Qt	Quan tâm
+4 `	phò
+mv	em vi
+Clb	Câu lạc bộ
+clb	câu lạc bộ
+sk	sức khỏe
+kcn	khu công nghiệp
+bds	bất động sản
+bđs	bất động sản
+cty	công ty
+xklđ	xuất khẩu lao động
+///	sọc
+kd	kinh doanh
+nđt	nhà đầu tư
+Nđt	Nhà đầu tư
+tgian	thời gian
+hsau	hôm sau
+hnay	hôm nay
+vlon	vãi lồn
+bm	bố mẹ
+qđ	quyết định
+cf	cà phê
+vlin	vãi lồn
+gr	group
+vcc	vãi cả cờ
+Vcc	Vãi cả cờ
+th	thằng
+Th	Thằng
+md	mất dạy
+bl	bình luận
+blv	bình luận viên
+gd	gia đình
+hk	không
+hok	không
+rp	report
+ib	inbox
+bxh	bảng xếp hạng
+rr	rẻ rách
+đbrr	đầu buồi rẻ rách
+mng	mọi người
+dklm	địt con mẹ
+ysl	yếu sinh lý
+xxx	x x x
+dlv	dư luận viên
+VC	Việt Cộng
+DMCS	Địt mẹ cộng sản
+atsm	ảo tưởng sức mạnh
+cocc	cê âu cê cê
+ahbp	anh hùng bàn phím
+bmr	bỏ mẹ r
+cmnd	chứng minh nhân dân
+Cmnd	Chứng minh nhân dân
+cccd	căn cước công dân
+Cccd	Căn cước công dân
+CS	Cộng Sản
+zl	vãi lồn
+clmm	cái lồn mẹ mày
+HK	HongKong
+tr	trời
+ytb	youtube
+Xhcn	Xã hội chủ nghĩa
+Đ*o	Đéo
+dcscn	đảng cộng sản china
+đcsvn	đảng cộng sản việt nam
+cnxh	chủ nghĩa xã hội
+đmmm	địt mẹ mày
+tc	tình cảm
+lgi	làm gì
+ĐM	Địt mẹ
+nch	nói chuyện
+hv	hậu vệ
+xd	xác định
+đtrai	đẹp trai
+tn	tin nhắn
+chxhcn	Cộng hòa Xã hội Chủ nghĩa
+sp Trump	support Trump
+xg	xong
+cj	cậu gì
+Inb	Inbox
+srm	ét rờ mờ
+vtv	vê tê vê
+nchug	nói chung
+Nhg	Nhưng
+n	nó
+cđ	con đĩ
+Voz	vê ô zét
+loz	lồn
+lz	lồn
+CĐM	cộng đồng mạng
+vnch	Việt Nam cộng hòa
+HN-LC	Hà Nội Lào Cai
+bgio	bao giờ
+Tsb	Tiên sư bố
+ncc	như con cặc
+s.h.i.t	shit
+lmj	làm gì
+ngy	người yêu
+lgt	lồn gì thế
+tgioi	thế giới
+cmr	con mẹ rồi
+bve	bảo vệ
+tgt3	thế giới thứ ba
+kbh	không bao giờ
+đ*t	địt
+C S	Cộng Sản
+n . y	người yêu
+nt mình	nhắn tin mình
+qtrong	quan trọng
+bjo	bao giờ
+Z	Zậy
+z	zậy
+cs	cộng sản
+Cs	Cộng sản
+🍠	bánh
+mb	máy bay
+TT Trump	Tổng thống Trump
+xhcn	xã hội chủ nghĩa
+xl	xạo lồn
+vcNhưng	vãi cặc. Nhưng
+đmcs	dm cộng sản
+trrrr	trời
+trrrn	trên
+vloz	vãi lồn
+cv	công việc
+lozzzz	lồn
+nt	như thế
+BVS	băng vệ sinh
+d*i	dái
+sp	sản phẩm
+Ib	Inbox
+ctrai	con trai
+cgai	con gái
+Dmmmm	Địt mẹ
+pv	phỏng vấn
+d.ụ.c	dục
+sn	sinh nhật
+ds	dễ sợ
+xh	xã hội
+kbiz	ka biz
+khg	không
+cfs	confession
+bjt	biết
+kb	kết bạn
+chossss	chó
+dmcs	dm cộng sản
+đmm	địt mẹ mày
+csxhcn	cộng sản xã hội chủ nghĩa
+ĐMCS	Địt mẹ cộng sản
+giốg	giống
+trag	trang
+kkkkkkk	ka ka ka
+nc	nói chuyện
+thoy	thôi
+lôz	lồn
+nunwgs	nứng
+djt	địt
+Dmm	địt mẹ mày
+đ * t	đít
+p . h . á . t x . í . t	phát xít
+bno	bọn nó
+xl rồi	xin lỗi rồi
+xl bác	xin lỗi bác
+L	lờ
+HCQ	hợp chủng quốc
+đcs	đảng cộng sản
+Khokk	khóc
+ln	lồn
+cd	chế độ
+Đmcs	Đụ má cộng sản
+csxhcd	cộng sản xã hội chế độ
+cdcm	cái địt con mẹ
+dcs	Đảng Cộng sản
+nthe	như thế
+cag	cặc
+đ . iên	điên
+đ . ụ	đụ
+csản	cộng sản
+đitme	địt mẹ
+Cc	cờ cờ
+mnsd	man ngu si đần
+lolz	lồn
+stk	số tài khoản
+Stk	số tài khoản
+nchung	nói chung
+đell	đéo
+vailol	vãi lồn
+xợ	sợ
+duma	đù má
+fwb	bạn chịch
+ciu	cu
+dcsvn	đảng cộng sản việt nam
+hl	hãm lồn
+lone	lồn
+clipp	clip
+vailon	vãi lồn
+nồ	lồn
+nma	nhưng mà
+douma	đụ má
+bome	bỏ mẹ
+mxh	mạng xã hội
+moẹ	mẹ
+tró	chó
+vjp	vip
+đũy	đĩ
+zú	vú
+dmm	địt mẹ mày
+đuma	đụ má
+adu	á đù
+đỹ	đĩ
+ctay	chia tay
+mịe	mẹ
+adidaphat	a di đà phật
+vck	vợ chồng
+búm	bướm
+mọe	mẹ
+xaolon	xạo lồn
+dume	đụ mẹ
+móa	má
+mợt	mệt
+pím	bướm
+rach	rách
+ṽ	vãi
+đuỹ	đĩ
+lồz	lồn
+zợ	sợ
+cặt	cặc
+dú	vú
+đme	địt mẹ
+xamf	xàm
+nunglon	nứng lồn
+ｔổｎｇ	tổng
+ｈợｐ	hợp
+ｃáｃ	các
+ｃｌｉｐ	clip
+ｔâｙ	tây
+đｉ	đi
+ｃｈơｉ	chơi
+ｐｈò	phò
+ｖｎ	việt nam
+ｅｍ	em
+ｃｌｉｃｋ	click
+ｘｅｍ	xem
+ｎｈａ	nha
+dịt	địt
+dcmm	địt con mẹ mày
+đit	địt
+dizz	địt
+lồl	lồn
+móe	má
+acclone	acc lồn
+nulo	nứng lồn
+concho	con chó
+kảm	cảm
+ᴍᴜᴀ	mua
+ʙáɴ	bán
+lozz	lồn
+ᴇм	em
+dmca	dm
+ịa	ỉa
+chos	chó
+ᴛươɴɢ	tương
+ᴛáᴄ	tác
+ᴛốᴛ	tốt
+ịt	địt
+đjtme	địt mẹ
+đuýt	đít
+dâmm	dâm
+jách	rách
+đjtconme	địt con mẹ
+ċhö	chó
+đel	đéo
+clmn	cái lồn mẹ n
+ᴍɪễɴ	miễn
+ᴘʜí	phí
+ngyeu	người yêu
+vllllll	vãi lồn
+ᴄʜᴏ	cho
+ʙé	bé
+ʏêᴜ	yêu
+nồn	lồn
+đume	đụ mẹ
+lôl	lồn
+cặ	cặc
+cằc	cặc
+bòi	buồi
+ᐯiᗪeo	video
+ᗰới	mới
+ᑎoᑎ	non
+ᐯào	vào
+ᴛʜấʏ	thấy
+ɴàʏ	này
+ᴛʜᴀᴍ	tham
+ɢɪᴀ	gia
+nứg	nứng
+ᑕᒪiᑭ	clip
+ᖴᑌᒪᒪ	full
+hamlone	hãm lồn
+ditconme	địt con mẹ
+vïdëö	video
+ċhăn	chăn
+räü	rau
+ċựċ	cực
+nướċ	nước
+ċần	cần
+khõe	khoiẽ
+ᑎᕼà	nhà
+ᑎgᕼỉ	nghỉ
+tʜái	thái
+ƌộ	độ
+gӓy	gây
+ᴛrαnh	tranh
+cӓi	cãi
+vl0	vãi lồn
+ditme	địt mẹ
+máaaaaa	má
+đelll	đéo
+dếu	vú
+xaoloz	xạo lồn
+khovilol	khổ vì lồn
+nhulonn	như lồn
+đizzz	địt
+xamlin	xàm lồn
+chungtôiđồnglòngtẩychayninhduonglanngoc	chúng tôi đồng lòng tẩy chay Ninh Dương Lan Ngọc
+tẩychayninhduonglanngoc	tẩy chay Ninh Dương Lan Ngọc
+xamlol	xàm lồn
+ditmecuocdoi	địt mẹ cuộc đời
+änh	anh
+müốn	muốn
+độnġ	động
+ċủä	của
+khônġ	không
+ċämërä	camera
+ċặp	cặp
+ċhồnġ	chồng
+ċlïp	clip
+áï	ai
+xëm	xem
+nónġ	nóng
+nhä	nha
+samloz	xàm lồn
+vãiiii	vãi
+ᴛổɴɢ	tổng
+ʜợᴘ	hợp
+ʟɪɴᴋ	link
+cáingu	cái ngu
+đụma	đụ má
+lồnnnn	lồn
+ṭậƿ	tập
+ṭһể	thể
+єṃ	em
+ɢáı	gái
+ṭяȏṅɢ	trong
+ṅһà	nhà
+ṅɢһỉ	nghỉ
+đél	đéo
+vl😑	vãi lồn
+vlol	vãi lồn
+nunglonmongmanh	nứng lồn mong mang
+concakkinhnien	con cặc kinh niên
+đells	đéo
+concac	con cặc
+đá1	đái
+vcut	vãi cứt
+lon😀	lồn
+cu🙃	cu
+нọc	học
+ѕιnн	sinh
+địт	địt
+nнaυ	nhau
+тự	tự
+qυay	quay
+clιp	clip
+хəм	xem
+zái	dái
+àduma	à đù má
+hãmloz	hãm lồn
+тổɴԍ	tổng
+нợᴘ	hợp
+cʟιᴘ	clip
+cнéɴ	chén
+ʀᴀu	rau
+ɴuộт	nuột
+xoac	xoạc
+vclin	vãi cả lìn
+đeohieukieugi	đéo hiểu kiểu gì
+lonz	lồn
+concard	con cặc
+hãmlol	hãm lồn
+vaix	vãi
+ocschos	óc chó
+zler	vãi lồn
+bímm	bướm
+xaml	xàm lồn
+ᖇᗩᑌ	rau
+ᑕᕼăᑎ	chăn
+ᑕựᑕ	cực
+tᖇàᑎ	tràn
+ᑎướᑕ	nước
+tᖇề	trề
+ᗩe	anh em
+ᑎào	nào
+ᑕầᑎ	cần
+tᕼì	thì
+ᑎgᗩy	ngay
+s3x	sex
+sex🔞	sex
+lồn	hãm lồn
+rồiđm	rồi địt mẹ
+sιɴн	sinh
+vιêɴ	viên
+ɴԍực	ngực
+мớι	mới
+ɴнú	nhú
+cнᴀт	chat
+sᴇx	sex
+тʀᴀι	trai
+ʙạɴ	bạn
+ʟιɴκ	link
+ᴘнúт	phút
+vlolngã	vãi lồn ngã
+xaolin	xạo lồn
+ᕼiếᑭ	hiếp
+ᗪâᗰ	dâm
+ᗷạᑎ	bạn
+ᑕùᑎg	cùng
+ᒪớᑭ	lớp
+vãiiiii	vãi
+anlon	ăn lồn
+anlonnhe	ăn lồn nhé
+ᕼọᑕ	học
+ᑕấᑭ	cấp
+ᗪắt	dắt
+ᑎᕼᗩᑌ	nhau
+ᖇồi	rồi
+ᗩi	ai
+ᑎgờ	ngờ
+ᗷị	bị
+ᑕᕼủ	chủ
+ᑫᑌᗩy	quay
+vãii	vãi
+vainon	vãi lồn
+condilon	con đĩ lồn
+vιᴅᴇo	video
+мóc	móc
+cuᴀ	cua
+ԍáι	gái
+нàɴԍ	hàng
+xóм	xóm
+quằɴ	quằn
+quạιｖàｏ	quại vào
+moé	má
+buscu	bú cu
+hãmlon	hãm lồn
+ᴀᴇ	ae
+тнì	thì
+ɴԍᴀʏ	ngay
+dmcs5	dm cộng sản
+chxhcnvn	cộng hòa xã hội chủ nghĩa việt nam
+ａｎｈ	anh
+hamlon	hãm lồn
+ɢʀᴏᴜᴘ	group
+xᴇᴍ	xem
+ɴʜé	nhé
+ｖàｏ	vào
+äë	ae
+màaa	mà
+dồiiiii	rồi
+lynh	linh
+lunnn	luôn
+đóoo	đó
+daubuoi	đầu buồi
+taychayninhduonglanngoc	tẩy chay NinhDươngLanNgọc
+chiatay	chia tay
+bướng'g	bướng
+tócnamđẹp	tóc nam đẹp
+nèeeee	nè
+nhântâm	nhân tâm
+chủdân	chủ dân
+bạnnn	bạn
+xinhhh	xinh
+phukien	phụ kiện
+bomtoc	bờm tóc
+caitoc	cài tốc
+keptoc	kẹp tóc
+bongtai	bông tai
+vongco	vòng cổ
+vongtay	vòng tay
+kinhcan	kính cận
+donghogiare	đồng hồ giá rẻ
+laodong	lao động
+ngưngđổlỗi	ngưng đồ lỗi
+đừngimlặng	đừng im lặng
+nguoitre	người trẻ
+hieubiet	hiểu biết
+chịuuuu	chịu
+luônnn	luôn
+waooo	wow
+tinhanhem	tình anh em
+tudaithienvuong	tứ đại thiên vương
+rồi	rồi
+cướp	cướp
+ngonnn	ngon
+nàyyyy	này
+giặc	giặc
+bắc	bắc
+ғuʟʟ	full
+sốđiệnthoại	số điện thoại
+ｎｇａｙ	ngay
+lại	lại
+tẹtt	tẹt
+mìnhhh	mình
+cuốivậy	cuối vậy
+xuất	xuất
+mạng	mạng
+chuẩn	chuẩn
+đánhrơi	đánh rơi
+ᴇᴍ	em
+ɴʜóᴍ	nhóm
+ғʀᴇᴇ	free
+đăɴɢ	đăng
+ʙàɪ	bài
+thếrác	rác
+đỉnkkk	đỉnh
+ngàynhóm	ngày nhóm
+lợicộng	lợi cộng
+cườirồi	cười rồi
+nữađang	nữa đang
+điênbớt	điên bớt
+thôivà	thôi và
+cứtvì	cứt vì
+tướngnó	tướng nó
+đúngnhưng	đúng nhưng
+nhiềuchụp	nhiều chụp
+chetmemay	chết mẹ mày
+hâhhha	haha
+nhỉthôi	nhỉ thôi
+ơigiờ	ơi giờ
+lật	lật
+thấmdầu	thấm dầu
+thôiii	thôi
+nàooo	nào
+vcnhưng	vc nhưng
+rồiiii	rồi
+đấutrườngâmnhạc	đấu trường âm nhạc
+giọnghátviệt2019	giọng hát việt
+mãiyêu	mãi yêu
+tinnếu	tin nếu
+ɢɪảᴍ	giảm
+ᴋịᴄʜ	kịch
+bócra	bóc ra
+ćựć	cực
+ńhíệt	nhiệt
+chóooo	chó
+tộiiii	tội
+viềnxích	viền xích
+bò	bò
+căngmịn	căng mịn
+congsan	cộng sản
+chờiiiii	trời
+sắccccc	sắc
+taaaa	ta
+caooo	cao
+rồiiiiivà	rồi và
+kháccả	khác cả
+bvs	băng vệ sinh
+condime	con đi mẹ
+quáaaa	quá
+êiiiiiiiiii	ê
+luônchắc	luôn chắc
+vclmuốn	vc muốn
+cómà	có mà
+luậtcộng	luật cộng
+thằng's	thằng
+bờm'm	bờm
+đảngtọa	đản tọa
+lườiii	lười
+thoidai	thời đại
+dmmmm	dm
+tuoilon	tuổi lồn
+nhậnnn	nhận
+nãophải	não phải
+senđm	sen dm
+bananthongminh	bàn nà thông minh
+biếttttt	biết
+việtnam	việt nam
+muối's	muối
+yênnnn	yên
+nonnếu	non nếu
+treocổ	treo cổ
+đóvậy	đó vậy
+lợiko	lợi không
+nhìuuuuu	nhiều
+anhem	anh em
+tuyển	tuyển
+hệ	hệ
+còntìnhcònnghĩacòntồntại	còn tình còn nghĩa còn tồn tại
+hếttìnhhếtnghĩahoáhưvô	hết tình hết nghĩa hóa hư vô
+màvợ	mà vợ
+chịii	chị
+bừnnnn	bần
+kìaaa	kìa
+ôngtrời	ông trời
+lạnếu	lạ nếu
+vàongưng	vào ngưng
+gửi	gửi
+chetme	chết mẹ
+đclm	địt con mẹ mày
+nèbạn	nè bạn
+tẩychay	tẩy chay
+taooooo	tao
+nhấttttt	nhất
+emmà	em mà
+khỗ	khổ
+mìnhđã	mình đã
+vclll	vãi cả lồn
+nwngs	nứng
+nhỉiiiiiiiiii	nhỉ
+videoooo	video
+vỡiiiii	vãi
+ghiaaaa	ghê
+quantum	quan tâm
+thậttt	thật
+dduma	dm
+nátttttttt	nát
+tộibạo	tội bạo
+baoquocte	báo quốc tế
+đieen	điên
+chuộtttt	chuột
+đấyyyyy	đấy
+hiểuvừa	hiểu vừa
+kiểmhàng	kiểm hàng
+mìnhvà	mình và
+tttây	tây
+biếtđéo	biết đéo
+chụpmà	chụp mà
+hâhhaahha	haha
+màtìm	mà tìm
+nàytao	này tao
+phimqua	phim qua
+giávới	giá với
+thoitrang	thời trang
+sướngchị	sướng chị
+500ae	500 ae
+vớiiiii	với
+zạyyyy	vậy
+hếttttttttt	hết
+tàucố	tàu cổ
+duỵet	duyệt
+cócó	có có
+trinh🤣🤣🤣	trình
+thếtưởng	thế tưởng
+rồinó	rồi nó
+ỏoooooooooo	ỏ
+cuteeeeeee	cute
+lộncáibàn	lộn cái bàn
+chetcondime	chết con đĩ mẹ
+bởi	bởi
+lựcnhư	lực như
+tròyy	trời
+nhòi	lòi
+trithucvn	tri thức việt nam
+vncuộc	việt nam cuộc
+hâhhahaahah	haha
+chòiiiiii	trời
+biarượu	bia rượu
+nầy	này
+nhiều	nhiều
+màcòn	mà còn
+congly	công lý
+khítvừa	khít vừa
+viêmvừa	viêm vừa
+xờiiii	xời
+yêuuuuuu	yêu
+giảihơn	giải hơn
+triiệuu	triệu
+vàooo	vào
+uầyyyy	uầy
+concặtnèđức	con cặc nè đức
+thôixin	thôi xin
+khácchắc	khác chắc
+mắtmón	mắt món
+bạnhỏi	bạn hỏi
+vuiii	vui
+nẹee	nẹ
+quênnn	quên
+khácthấy	khác thấy
+cáimolon	cái mồm lồn
+dốimà	rồi mà
+lắm	lắm
+ranữa	ra nữa
+cumback	comeback
+dmc5	dm cộng sản 5
+hâhhahha	haha
+phếttttt	phết
+vậyphụ	vậy phụ
+củaviệt	của việt
+thoithế	thôi thế
+nóbên	nó bên
+cayyy	cay
+miễnphí	miễn phí
+cươp	cướp
+huhuhuuu	huhu
+hâhhhaha	haha
+kkkkkkkkkkkkkk	haha
+kooooo	không
+нᴅ	hd
+ĩaaaaa	ỉa
+điđcm	địt con mẹ
+sốthành	số thành
+ấyyy	ấy
+thiêndương	thiên dương
+tăngcân	tăng cân
+dinhdưỡng	dinh dưỡng
+giảmcân	giảm cân
+lợisữa	lợi sữa
+bàbầu	bà bầu
+cnxhvn	cộng hòa xã hội việt nam
+đóoooooooo	đó
+honggg	không
+phòngvévũlinh	phòng vé vũ linh
+gìgiờ	gì giờ
+ngàymình	ngày mình
+thếbonj	thế bọn
+ơicái	ơi cái
+nhóooo	nhá
+trọc	trọc
+9tháng	9 tháng
+nungcackinhnien	nứng cặc kinh niên
+zuiiii	vui
+riênggg	riêng
+đâuuuu	đâu
+ơitui	ơi tui
+bạchhhhh	bạch
+hàaaaaaa	haha
+chếttt	chết
+kienthuc	kiến thức
+luônmột	luôn một
+toiiiiiiiiiiiiiii	toi
+cuuuu	cứu
+hayyyy	hay
+cảnhăn	cả nhă
+đi😂😂😂😂😂	đi
+doumer	đù má
+đâutự	đâu tự
+fuckkk	fuck
+hahhahah	haha
+khennnnn	khen
+dogs	chó
+toooooo	to
+nèee	nè
+hamlonic	hãm lồn
+nưsng	nứng
+đâuchỉ	đâu chỉ
+bình3lân	bình lân
+hòooo	hò
+ccđmm	cái địt mẹ
+tiềnra	tiền ra
+đứngmấy	đứng mấy
+botay	bó tay
+quốcnhóm	quốc nhóm
+đồikhông	đồi không
+côimột	côi một
+rượuem	rượu em
+chìmhơi	chìm hơi
+trộmmmm	trộm
+yêunhưng	yêu nhưng
+toiiii	toi
+quéeeee	qué
+múp	ngon
+màbạn	mà bạn
+haaahaaaahaaaa	haha
+quaaaaaa	qua
+xinloiổng	xin lỗi ông
+tốtsao	tốt sao
+tròntròn	tròn
+zma	vậy mà
+quáaa	quá
+lênnnnnn	lên
+tiềnnhanh	tiền nhanh
+ưnggg	ưng
+xink's	xinh
+trấtttt	chất
+đisắp	đi sắp
+đoume	đù má
+thắngmạnh	thắng mạnh
+mootj	một
+tiếppp	tiếp
+cẩuuu	cẩu
+lươnggggg	lương
+tiềnthì	tiền thì
+bạnthật	bạn thật
+ᕼơᑎ	hơn
+tiếᑎg	tiếng
+kᕼáᑕᕼ	khách
+tᖇᑌᑎg	trung
+ᑫᑌốᑕ	quốc
+ᕼᗪ	hd
+từᑎg	từng
+ᑕọᑎg	cọng 
+ᒪôᑎg	lông
+ᗩᑎᕼ	anh
+ᑕᒪiᑕk	click
+ᑎᕼᗩ	nha
+cầuthốngnhất	cầu thống nhất
+hâhhahahahahahahaha	haha
+vieclamnhatrang	việc làm nhatrang
+nóibên	nói bên
+saooooooo	sao 
+đéll	đéo
+đeeee	đê
+trươtj	trượt
+tròiii	trời
+hóngggg	hóng
+ngầmkhi	ngầm khi
+cholúc	cho lúc 
+lẻlàm	lẻ làm
+trucotgiadinh	trụ cột gia đình
+ᒪại	lại
+rẻđồ	rẻ đồ
+cayyyyyyyyyy	cay
+maulanh	máu lạnh
+nhàquên	nhà quên
+rồiii	rồi
+vớisamsungconngườilàsố1	với samsung con người là số 1
+màyyyyyy	mày
+häċk	hack
+chxncn	cộng hòa xã hội chủ nghĩa
+mìnhhhh	mình
+thuaaa	thua
+đumá	đù má
+zaiiii	trai
+ditmem	địt mẹ
+tặngkèm	tặng kèm
+disme	địt mẹ
+đĩcái	đĩ cái
+anhyêu	anh yêu
+lunnnn	luôn
+nóidc	nói được
+hơnra	hơn ra
+chứhãy	chứ hãy
+khachhangthanyeu	khách hàng thân yêu
+đcchơi	được chơi
+tiềnkiếm	tiền kiếm
+vlonn	vãi lồn
+vàngđổi	vàng đổi
+điiiiiiiiiiiiiii	đi
+nhébọn	nhé bọn
+viêtnamzi	việt nam
+cuôicungf	cuối cùng
+niceeee	nice
+ạhhh	ạ
+ᴍìɴʜ	mình
+ᴄʜấᴛ	chất 
+ᴄʟɪᴄᴋ	click
+ᴛʜử	thử
+gdcd	giáo dục công dân
+chậu🥴🥴🥴	chậu
+emmmmmm	em
+đmmmm	địt mẹ
+cuocsongantoan	cuộc sống an toàn
+khônggg	không
+cácờ	cá cờ
+nàooooo	nào
+ngonnnnn	ngon
+vclllll	vãi cả lồn
+rõ	rõ
+xéooooo	xéo
+đúmmedia	đụ má 
+ngườinhưng	người nhưng
+emmmm	em
+viếtanh	viết nah
+triếttt	triết
+cò's	cò
+ơi'ii	ơi
+anhhh	anh
+răngcảm	răng cảm
+ngayhối	ngay hối
+vìanh	vì anh
+làgió	là gió
+đumami	đụ má mi
+rồicái	rồi cái
+sói'i	sói 
+cuteeee	cute
+mìnhđào	mình đào
+tếtcó	tết có
+ơiiiiiiii	ơi
+ᴍấᴛ	mất
+ʟậᴘ	lập
+ʟạɪ	lại
+ᴍớɪ	mới
+ǫᴜᴀ	qua
+xinloiduocchua	xin lỗi được chưa
+hayyyyy	hay
+cóchiến	có chiến
+nhậnđây	nhận đây
+thôichứ	thôi chứ
+ngườivào	người vào
+bunglốp	bung lốp
+cùngthơm	cùng thơm
+xuânchỗ	xuân chỗ
+ngầnlại	ngần lại
+đmmdmmdmd	địt mẹ
+matdayy	mất dạy
+xonggg	xong
+thèmmmm	thèm
+dmhochiminh	dm hồ chí minh
+ỉaaaaa	ỉa
+mặtnạhoàngcung	mặt nạ hoàng cung
+cámơn	cảm ơn
+immemom	im mẹ mồm
+tứclà	tức là
+taoooo	tao
+đâuu	đâu
+khuyenmai	khuyến mại
+thôinói	thôi nói
+nguyênlý	nguyên lý
+ơiidịch	ơi dịch
+dàiib	dài
+xĩuuuu	xĩu
+bớtghi	bớt ghi
+hếtthật	hết thật
+kháctội	khác tôi
+trâucửu	trâu cửu
+vềthất	về thất
+quêchấm	quê chấm
+đờingũ	đời ngũ
+trờilục	trời lục
+anhyeu	anh yêu
+dờiii	trời
+ấyấy	ấy ấy
+hahhahaah	haha
+ċùnġ	cùng
+ġáï	gái
+ċäö	cao
+kiàaaaaa	kìa
+tuoitre	tuổi trẻ
+đỉnhhhhhhhh	đỉnh
+sᴀʟᴇ	sale
+ᴛᴏàɴ	toàn
+ᴄáᴄ	các
+ʜãɴɢ	hãng
+ɴɢᴀʏ	ngay
+tiềnbây	tiên bây
+đãaa	đã
+lắmđừng	lắm đừng
+rùiiii	rồi
+ʜᴀᴄᴋ	hack
+ᴄᴀᴍᴇʀᴀ	camera
+ᴄủᴀ	của
+ᴄʜồɴɢ	chồng
+ᴛʀẻ	trẻ 
+ʟàᴍ	làm
+ᴛìɴʜ	tình
+ᴘʜê	phê
+condingheokho	con đĩ nghèo khổ
+nèeee	nè
+nhận	nhận
+gọi	gọi
+cáiii	cái
+vàotrách	vào trách
+cáivào	cái vào
+hahaaaa	haha
+kòi	còi
+đấyanh	đấy anh
+rửamặt	rửa mặt
+vlll	vl
+ạaaa	ạ
+csản	cộng sản
+ᴍᴏᴍ	mom
+hiuhiu	haha
+hmmm	hừm
+ngkhac	người khác
+vatoi	và tôi
+hahahahaha	haha
+bocphot	bóc phốt
+cơmtừthiện	cơm từ thiện
+điiiiii	đi
+èooo	èo
+vleu	vl
+saoo	sao
+chưởi	chửi
+rungliệt	rung liệt
+☎️zalo	zalo
+kiatrao	kia trai
+ahahha	haha
+nhậnchúc	nhận chức
+lạimà	lại mà
+trasuathaixanh	trà sữa thái xanh
+lanbài	lan bài
+rểnghĩa	rể nghĩa
+anninhthudo	an ninh thủ đô
+chóshopee	chó shoppe
+xắcccc	xắc
+đoois	đối
+nhaaaaaaaa	nha
+miềnbị	miền bị
+dânkhông	dân không
+ménnnn	mén
+quán's	quán
+hoàngtư	hoàng tử
+depsieunhe	dép siêu nhẹ
+gáinói	gái nói
+đuyy	đĩ
+đccó	được có
+raaaaa	ra
+đâutrc	đâu trước
+thổloại	thể loại
+kimcuong	kim cương
+thoiiiii	thôi
+nooooo	no
+hãng's	hãng
+truấttttt	chất
+chàiiiiia	trời
+ơihttps	ơi
+hơhơ	haha
+cuuuuut	cứt
+thôiiii	thôi
+gkee	ghê
+hottt	hot
+xincamon	xin cảm ơn
+yeahhhh	yeah
+chấttttt	chất
+dkkkkkmmmm	địt con mẹ
+người😌	người
+chuibiến	chui biến
+tüổï	tuổi
+đijt	địt
+mêêêê	mê
+chấmmmmm	chấm
+xinloiem	xin lỗi em
+kkkkkkkkkkkk	haha
+đẹppppp	đẹp
+hahahahahah	haha
+đẹpchứ	đẹp chứ
+adhóng	ad hóng
+kinhchẳng	kinh chẳng
+naymoiws	nay mới
+ùimới	rồi mới
+volang	vô lăng
+ơicảm	ơi cảm
+diiaaa	yeah
+sangggggg	sang
+huhukinh	huhu kinh
+tươiii	tươi
+đâuuu	đâu
+rùiii	rồi
+lềuuuuuuuuu	lồn
+xechứ	xe chứ
+tiềnbốc	tiền bốc
+ơivề	ơi về
+giaaan	gian
+đihóng	đi hóng
+lậậnnnha	lận nha
+ranhanh	ra nhanh
+tâmko	tâm không
+khókkk	khóc
+hơiiiiiiii	hơi
+bạnnnnnn	bạn
+ddaau	đâu
+đjnk	đỉnh
+dmmm	địt mẹ
+lênnn	lên
+đôgns	đống
+vlozz	vãi lồn
+hiểmcảnh	hiểm cảnh
+bénhưng	bé nhưng
+laptrinhvientv	lập trình viên
+khongbanbenhungmaysedocduocthoi	không bạn bè nhưng mày sẽ đọc được thôi
+hêhhehheh	he he he he
+siêuuu	siêu
+heeeee	ge
+uhhh	huhu
+nhaunhưng	nhau nhưng
+nhiềutt	nhiều
+kòy's	còi
+rồithôi	rồi thôi
+gohome	go home
+lữaaaa	nữa
+pleaseeee	please
+luôngggggg	luôn
+sắccc	sắc
+dthuon	dễ thương
+hônnnn	hôn
+cầu	cầu
+deeee	đê
+côvit	covid
+vllllllll	vl
+màaaaaa	mà
+ánnhh	ánh
+'hãy	hãy
+nào''	nào
+đấylúc	đấy lúc
+⚠️⚠️chuyên	chuyên
+zuiiiiii	vui
+kòyɞ	còi
+đưpj	đẹp
+yotuber	youtuber
+cạaa	cạ
+iuuuu	yêu
+loonf	lồn
+concu	con cu
+nhỉhíhí	nhỉ haha
+đaucó	đâu có
+đouma	đù má
+dungmeo	đừng mà
+nhưvay	như vậy
+tứcvà	tức và
+kuku	huhu
+xuất”em	xuất em
+hâhhaa	haha
+chứghét	chứ ghét
+ấyđã	ấy đã
+trungthứ	trung thứ
+ảothứ	ảo thứ
+xinratayrútluithôi	xin ra tay rút lui thôi
+ahihimà	haha mà
+kocho	không cho
+hâhhaha	haha
+huhuhuhuhu	huhu
+thươngvongo	thương vong
+đóchúng	đó chúng
+tìnhnhư	tình như
+daynha	đây nha
+nguồncoppygari	nguồn coppy
+cucuoithoimackedoi	cứ cười mặc kệ đời
+batdau	bắt đầu
+vaketthuc	và kết thúc
+truoejt	trượt
+giưỡng	dưỡng
+zui	vui
+con cho	con chó
+ak	à
+CA	công an
+Douma	Đụ má
+sz	size
+pải	phải
+Tđn	Thế đéo nào
+Dkm	Đê ka mờ
+dzui	đéo vui
+cmnđ	con mẹ nó đi
+Dcm	Địt con mẹ
+Dmmm	Địt mẹ mày
+qả	quả
+gg	gờ gờ
+Ditconme	Địt con mẹ
+dell	đéo
+DMM	Địt mẹ mày
+lề	lồn
+Mêêêê	Mê
+tl	trả lời
+ghanh	ganh
+kkkkk	ka ka ka ka ka
+Đkm	Địt con mẹ
+zzl	vờ lờ
+htrc	hôm trước
+cít	cứt
+chym	chim
+Mn	Mọi người
+inb	inbox
+IB	Inbox
+Tuk	tức
+dzị	vậy
+Chấttttt	chất
+lol	lồn
+cpi	chuẩn bị
+FB	Facebook
+K	Không
+Đc	được
+vll	vờ lờ
+Đzai	đẹp trai
+tks	thanks
+Kg	không
+inf	information
+zị	vậy
+kkkkkk	ka ka ka ka ka
+VL	vờ lờ
+mqh	mỗi quan hệ
+trou	trâu
+tauuu	tao
+nik	nick
+vâyh	vậy
+bme	bố mẹ
+Gr	Group
+Xongg	Xong
+bcuoi	buồn cười
+uhm	ừm
+uk	ừ
+áh	á
+vid	video
+Tks	thanks
+Mk	Mình
+Hamlon	Hãm lồn
+xog	xong
+Xamf	Xàm
+ah	à
+DCMM	Địt con mẹ mày
+Ct 	chia tay
+àk	à
+Clq	cái lồn què
+Ns	Nói
+gệ	ghệ
+ibbox	inbox
+póp	bóp
+LOL	Lờ o lờ
+Zui	vui
+ze	vẻ
+bnh	bao nhiêu
+nguhaha	ngu haha
+zời	giời
+KQ	kết quả
+wa	quá
+hlv	huấn luyện viên
+HLV 	Huấn luyện viên
+ik	đi
+ANM	An ninh mạng
+ltuc	liên tục
+đeck	đếch
