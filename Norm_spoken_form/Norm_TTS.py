@@ -714,6 +714,10 @@ def normalize_09unit(input_str, output_str):
             elif AZ == 'm ': AZ = 'mét '
             elif AZ == 'p ': AZ = 'phút '
             elif AZ == 'k ': AZ = 'ka '
+            elif AZ == 'Đ ': AZ = 'đồng '
+            elif AZ == 'M ': AZ = 'mét '
+            elif AZ == 'P ': AZ = 'phút '
+            elif AZ == 'K ': AZ = 'ka '
             input_str = input_str.replace(item, num + ' ' + AZ)
             output_str = output_str.replace(item, num + ' ' + AZ)
     
@@ -1906,10 +1910,59 @@ def run(input_file, output_file, foreign_file, abbre_file):
     fout_norm_failure.close()
     f_inp.close()
 
+#remove <URL>
+def remove_url(text):
+    text = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', text)
+    text = re.sub(r'www.facebook.com([^"]+)', '*', text)
+    text = re.sub(r'<URL>', '',text)
+    text = re.sub(r'< url >', '',text)
+    text = re.sub(r'< URL >', '',text)
+    text = re.sub(r'<url>', '',text)
 
-abbre_dict = read_abbre('Norm_spoken_form/abbr2.txt')
+    return text
+# convrtt
+def convert_icon(text):
+    text = re.sub(r':\)*','<mặt_cười>', text)
+    text = re.sub(r'=\)*','<mặt_cười>', text)
+    text = re.sub(r':\(*','<mặt_buồn>', text)
+    text = re.sub(r'=\(*','<mặt_buồn>', text)
+    dic_emot = read_emo_vi("Norm_spoken_form/emot_vi.txt")
+    for emot in dic_emot.items():
+        text = text.replace(emot[0],str("<"+emot[1].lstrip()+">").replace(" ","_"))
+    
+    return text
+
+def repalce_09unit_plus(text, str1 , str2):
+    text = text.split()
+    index = []
+    for i, word in enumerate(text):
+        if word == str1:
+            index.append(i)
+
+    for i in index:
+        if text[i-1].isnumeric():
+            text[i] = str2
+    return " ".join(text)
+
+def normalize_09unit_plus(text):
+    text = repalce_09unit_plus(text, "k", "ka")
+    text = repalce_09unit_plus(text, "t", "tuổi")
+    text = repalce_09unit_plus(text, "m", "mét")
+    text = repalce_09unit_plus(text, "k", "phút")
+    text = repalce_09unit_plus(text, "K", "ka")
+    text = repalce_09unit_plus(text, "T", "tuổi")
+    text = repalce_09unit_plus(text, "M", "mét")
+    text = repalce_09unit_plus(text, "P", "phút")
+
+    return text
+
+
+
+abbre_dict = read_abbre('Norm_spoken_form/abbr3.txt')
 
 def norm_sentence(line):
+    line = normalize_09unit_plus(line)
+    line = remove_url(line)
     line = line.strip()
     input_line = line
     #    line = normalize_email(line)
@@ -1944,11 +1997,45 @@ def norm_sentence(line):
         line_out = norm_vnmese_accent(line_out)
     except:
         pass
+
     line_out = remove_tag(line_out)
+    line_out = convert_icon(line_out)
+
     return line_out
 
+## add case "2 k" "3 m" "27 t"
+def read_emo_vi(file):
+    emo_vi = dict()
+    with open(file,"r") as file:
+        a = file.readlines()
+
+    for i in a:
+        di = i.split(":")[:2]
+        emo_vi[di[0]] = di[1]
+
+    return emo_vi
+
 if __name__ == "__main__":
-    a = norm_sentence("2h").strip()
+    a = norm_sentence("xon 🥉 https://www.w3schools.com/python/trypython.asp?filename=demo_ref_string_isnumeric  < URL > xin chao be 2 t Quả rơi đúng từ tầng 18 mà 😞").strip()
+    # a = remove_url("https://www.w3schools.com/python/trypython.asp?filename=demo_ref_string_isnumeric xin chao be 2 t")
     print(a)
     # print(abbre_dict)
-   
+
+    # print(read_emo_vi("Norm_spoken_form/emo_vi.txt"))
+    # print(convert_icon("xon 🥉"))
+
+
+
+
+    # mapping = pd.read_csv("Norm_spoken_form/mapping.csv", header=None)
+    # # print(mapping.columns)
+    # for i in range(len(mapping)):
+    #     abbre_dict[mapping[0][i]] = mapping[1][i]
+
+    # with open("Norm_spoken_form/abbr3.txt","w") as file:
+    #     for i in abbre_dict.items():
+    #         file.write(i[0])
+    #         file.write("\t")
+    #         file.write(i[1])
+    #         file.write("\n")
+
