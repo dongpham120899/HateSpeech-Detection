@@ -1922,14 +1922,30 @@ def remove_url(text):
     return text
 # convrtt
 def convert_icon(text):
-    text = re.sub(r':\)*','<mặt_cười>', text)
-    text = re.sub(r'=\)*','<mặt_cười>', text)
-    text = re.sub(r':\(*','<mặt_buồn>', text)
-    text = re.sub(r'=\(*','<mặt_buồn>', text)
+    text = re.sub(r':\s\)','<mặt_cười> ', text)
+    text = re.sub(r'=\s\)','<mặt_cười> ', text)
+    text = re.sub(r'=\s\]','<mặt_cười> ', text)
+    text = re.sub(r':\s\(','<mặt_buồn> ', text)
+    text = re.sub(r'=\s\(','<mặt_buồn> ', text)
+    text = re.sub(r'=\s\[','<mặt_buồn> ', text)
+
+    text = re.sub(r'\s\)','', text)
+    text = re.sub(r'\s\(','', text)
+    text = re.sub(r'\s\]','', text)
+    text = re.sub(r'\s\[','', text)
     dic_emot = read_emo_vi("Norm_spoken_form/emot_vi.txt")
     for emot in dic_emot.items():
         text = text.replace(emot[0],str("<"+emot[1].lstrip()+">").replace(" ","_"))
     
+    return text
+
+# covert
+def convert_swearing(text):
+    text = text.replace("Đ!t", "Địt")
+    text = text.replace("đ!t", "địt")
+    text = text.replace("D!t", "Địt")
+    text = text.replace("d!t", "địt")
+    text = text.replace("dit", "địt")
     return text
 
 def repalce_09unit_plus(text, str1 , str2):
@@ -1959,10 +1975,21 @@ def normalize_09unit_plus(text):
 
 
 abbre_dict = read_abbre('Norm_spoken_form/abbr3.txt')
+abbre_dict["ôg"] = "ông"
+abbre_dict["CCC"] = "Cái con cặc"
+abbre_dict["lx"] = "lái xe"
+abbre_dict["bk"] = "biết"
+abbre_dict["atrai"] = "anh trai"
+abbre_dict["cak"] = "cặc"
+abbre_dict["cakkk"] = "cặc"
+abbre_dict["Cak"] = "cặc"
+abbre_dict["Cakk"] = "cặc"
+
 
 def norm_sentence(line):
     line = normalize_09unit_plus(line)
     line = remove_url(line)
+    line = convert_swearing(line)
     line = line.strip()
     input_line = line
     #    line = normalize_email(line)
@@ -1974,7 +2001,8 @@ def norm_sentence(line):
     line_inp, line_out = norm_punct(line_inp, line_out)
     line_out = ' '.join([i for i in re.split(r'(\d+)', line_out) if i])
     line_inp, line_out = norm_abbre(line_out, line_out, abbre_dict)
-    line_inp, line_out = norm_tag_verbatim(line_inp, line_out)
+    print(line_out)
+    # line_inp, line_out = norm_tag_verbatim(line_inp, line_out)
     line_inp, line_out = normalize_decimal(line_inp, line_out)
 #     line_inp, line_out = norm_foreign_words(line_inp, line_out, trans_dict=trans_dict)
     line_inp = line_inp.replace('_', ' ')
@@ -2016,7 +2044,7 @@ def read_emo_vi(file):
     return emo_vi
 
 if __name__ == "__main__":
-    a = norm_sentence("xon 🥉 https://www.w3schools.com/python/trypython.asp?filename=demo_ref_string_isnumeric  < URL > xin chao be 2 t Quả rơi đúng từ tầng 18 mà 😞").strip()
+    a = norm_sentence("xin chao may con cho :)) )))))) Đ!t").strip()
     # a = remove_url("https://www.w3schools.com/python/trypython.asp?filename=demo_ref_string_isnumeric xin chao be 2 t")
     print(a)
     # print(abbre_dict)
@@ -2024,6 +2052,14 @@ if __name__ == "__main__":
     # print(read_emo_vi("Norm_spoken_form/emo_vi.txt"))
     # print(convert_icon("xon 🥉"))
 
+    # train = pd.read_csv("train_test_data/train_v8.csv")
+    # test = pd.read_csv("train_test_data/test_v8.csv")
+
+    # train['normed_comments'] = train.comments.apply(lambda x: norm_sentence(x).strip())
+    # test['normed_comments'] = test.comments.apply(lambda x: norm_sentence(x).strip())
+
+    # train.to_csv("train_test_data/train_v8.csv", index=False)
+    # test.to_csv("train_test_data/test_v8.csv", index=False)
 
 
 
