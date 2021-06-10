@@ -1928,6 +1928,10 @@ def convert_icon(text):
     text = re.sub(r':\s\(','<mặt_buồn> ', text)
     text = re.sub(r'=\s\(','<mặt_buồn> ', text)
     text = re.sub(r'=\s\[','<mặt_buồn> ', text)
+    text = re.sub(r':\s\]','<mặt_cười> ', text)
+    text = re.sub(r':\s\[','<mặt_buồn> ', text)
+    text = re.sub(r':\s\>','<mặt_cười> ', text)
+    text = re.sub(r'=\s\<','<mặt_buồn> ', text)
 
     text = re.sub(r'\s\)','', text)
     text = re.sub(r'\s\(','', text)
@@ -2001,7 +2005,6 @@ def norm_sentence(line):
     line_inp, line_out = norm_punct(line_inp, line_out)
     line_out = ' '.join([i for i in re.split(r'(\d+)', line_out) if i])
     line_inp, line_out = norm_abbre(line_out, line_out, abbre_dict)
-    print(line_out)
     # line_inp, line_out = norm_tag_verbatim(line_inp, line_out)
     line_inp, line_out = normalize_decimal(line_inp, line_out)
 #     line_inp, line_out = norm_foreign_words(line_inp, line_out, trans_dict=trans_dict)
@@ -2044,7 +2047,7 @@ def read_emo_vi(file):
     return emo_vi
 
 if __name__ == "__main__":
-    a = norm_sentence("xin chao may con cho :)) )))))) Đ!t").strip()
+    a = norm_sentence("Trần Văn Thoại ở quê ngày xưa toàn thế mà : ] ] ] Xong ngày xưa nhà tôi còn chả có xà bông , ra nhà ngoại mới có , lấy để gội đầu luôn").strip()
     # a = remove_url("https://www.w3schools.com/python/trypython.asp?filename=demo_ref_string_isnumeric xin chao be 2 t")
     print(a)
     # print(abbre_dict)
